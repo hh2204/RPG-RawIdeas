@@ -1,4 +1,5 @@
 # RPG Raw Ideas
 
 | Sprite | Name | Description |
-| ![](./HarvestImages/Wheat.png) |
+|:---:|:---:|:---|
+| ![](./HarvestItems/Wheat.png) | Wheat | This is wheat. |
