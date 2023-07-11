@@ -12,7 +12,7 @@
 
 | Sprite                                           | Name            | Description    |
 | :----------------------------------------------: | :-------------: | :------------- |
-| <img src="./HarvestItems/Cauliflower.png">       | [Cauliflower](./HarvestItems.md/#carrot)     | This is wheat. |
+| <img src="./Harvest-Items/Cauliflower.png">       | [Cauliflower](./HarvestItems.md/#carrot)     | This is wheat. |
 
 ## Chili Pepper
 
