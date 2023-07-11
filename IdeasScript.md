@@ -2,4 +2,4 @@
 
 | Sprite | Name | Description |
 |:---:|:---:|:---|
-| ![](./HarvestItems/Wheat.png) | Wheat | This is wheat. |
+| <img src="./HarvestItems/Wheat48x48.png"> | Wheat | This is wheat. |
