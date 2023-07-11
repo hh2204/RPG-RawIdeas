@@ -10,6 +10,10 @@
 
 ## Cauliflower
 
+| Sprite                                           | Name            | Description    |
+| :----------------------------------------------: | :-------------: | :------------- |
+| <img src="./HarvestItems/Cauliflower.png">       | [Cauliflower](./HarvestItems.md/#carrot)     | This is wheat. |
+
 ## Chili Pepper
 
 ## Corn
