@@ -12,7 +12,7 @@
 
 | Sprite                                           | Name            | Description    |
 | :----------------------------------------------: | :-------------: | :------------- |
-| <img src="./HarvestItems/Cauliflower.png">       | Cauliflower     | This is wheat. |
+| <img src="./HarvestItems/Cauliflower.png">       | [Cauliflower](./HarvestItems.md)     | This is wheat. |
 | <img src="./HarvestItems/Corn.png">              | Corn            | This is wheat. |
 | <img src="./HarvestItems/Globe-Thistle.png">     | Globe Thistle   | This is wheat. |
 | <img src="./HarvestItems/Radish.png">            | Radish          | This is wheat. |
