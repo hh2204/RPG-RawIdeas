@@ -1,4 +1,4 @@
 # RPG Raw Ideas
 
 | Sprite | Name | Description |
-| ![](./HarvestImages/) |
+| ![](./HarvestImages/Wheat.png) |
