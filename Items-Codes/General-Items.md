@@ -5,7 +5,7 @@
 ## Table Of Contents
 1. <a href="#material-items">Material Items</a>
     * <a href="#harvest-items">Harvest Items</a>
-    * <a href="#food-items">Food Items</a>
+    * <a href="#cauliflower">Food Items</a>
 
 ## Material Items
 
@@ -21,7 +21,7 @@
 | <img src="../Items-Images//Harvest-Items/Tomato.png">            | [Tomato](./Harvest-Items.md/#tomato)               | E      | This is wheat. |
 | <img src="../Items-Images//Harvest-Items/Wheat.png">             | [Wheat](./Harvest-Items.md/#wheat)                 | F      | This is wheat. |
 
-
+<a id="cauliflower">a</a>
 ### Food Items
 
 | Image                                                                | Name                                                              | Rarity | Description    |
@@ -36,7 +36,7 @@
 | <img src="../Items-Images//Food-Items/Cookies.png">                  | [Cookies](./Food-Items.md/#cookies)                               | F      | This is wheat. |
 | <img src="../Items-Images//Food-Items/Cream-Cake.png">               | [Cream Cake](./Food-Items.md/#cream-cake)                         | F      | This is wheat. |
 | <img src="../Items-Images//Food-Items/Crispy-Sea-Bass.png">          | [Crispy Sea Bass](./Food-Items.md/#crispy-sea-bass)               | F      | This is wheat. |
-| <img src="../Items-Images//Food-Items/Fish-Taco.png">                | [Fish Taco](./Food-Items.md/#fish-taco)                           | F      | This is wheat. |<a id="cauliflower"></a>
+| <img src="../Items-Images//Food-Items/Fish-Taco.png">                | [Fish Taco](./Food-Items.md/#fish-taco)                           | F      | This is wheat. |
 | <img src="../Items-Images//Food-Items/Fried-Calamari.png">           | [Fried Calamari](./Food-Items.md/#fried-calamari)                 | F      | This is wheat. |
 | <img src="../Items-Images//Food-Items/Fried-Eggs.png">               | [Fried Eggs](./Food-Items.md/#fried-eggs)                         | F      | This is wheat. |
 | <img src="../Items-Images//Food-Items/Fried-Mushroom.png">           | [Fried Mushroom](./Food-Items.md/#fried-mushroom)                 | F      | This is wheat. |
