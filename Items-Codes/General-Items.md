@@ -21,7 +21,7 @@
 | <img src="../Items-Images//Harvest-Items/Tomato.png">            | [Tomato](./Harvest-Items.md/#tomato)               | E      | This is wheat. |
 | <img src="../Items-Images//Harvest-Items/Wheat.png">             | [Wheat](./Harvest-Items.md/#wheat)                 | F      | This is wheat. |
 
-<a id="cauliflower">a</a>
+<a id="cauliflower"> </a>
 ### Food Items
 
 | Image                                                                | Name                                                              | Rarity | Description    |
