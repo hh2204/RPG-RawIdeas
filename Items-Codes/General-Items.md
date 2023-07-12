@@ -143,7 +143,10 @@
       <td><div align="center"><a href="./Food-Items-Codes/Cream-Cake.md"> Cream Cake </a></div></td>
       <td><b><div align="center"> C </div></b></td>
       <td></td>
-      <td><div align="center"> Strawberry, Cream, Flour, Egg, Sugar </div></td>
+      <td><div align="center"> 
+         <a href="./Harvest-Items-Codes/Strawberry.md"><img src="../Items-Images/Harvest-Items/Strawberry.png" width="40" height="40"></a>
+         Cream, Flour, Egg, Sugar 
+      </div></td>
    </tr>
    <tr>
       <td><a id="crispy-sea-bass"><img src="../Items-Images/Food-Items/Crispy-Sea-Bass.png"></a></td>
@@ -157,7 +160,10 @@
       <td><div align="center"><a href="./Food-Items-Codes/Fish-Taco.md"> FIsh Taco </a></div></td>
       <td><b><div align="center"> C </div></b></td>
       <td></td>
-      <td><div align="center"> Corn, Any Fish, Chili Pepper, Onion, Olive Oil, Cabbage </div></td>
+      <td><div align="center"> 
+         <a href="./Harvest-Items-Codes/Corn.md"><img src="../Items-Images/Harvest-Items/Corn.png" width="40" height="40"></a>
+         Any Fish, Chili Pepper, Onion, Olive Oil, Cabbage 
+      </div></td>
    </tr>
    <tr>
       <td><a id="fried-calamari"><img src="../Items-Images/Food-Items/Fried-Calamari.png"></a></td>
