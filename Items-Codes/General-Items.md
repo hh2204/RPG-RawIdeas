@@ -3,7 +3,7 @@
 ## Introductions
 
 ## Table Of Contents
-1. <a href="#raw-items">Material Items</a>
+1. <a href="#raw-items">Raw Items</a>
    * <a href="#harvest-items">Harvest Items</a>
 2. <a href="#crafting-items">Crafting Items</a>
    * <a href="#food-items">Food Items</a>
