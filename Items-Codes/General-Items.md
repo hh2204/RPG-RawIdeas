@@ -120,7 +120,7 @@
       <td><b><div align="center"> C </div></b></td>
       <td></td>
       <td><div align="center"> 
-         <img src="../Items-Images/Harvest-Items/Cauliflower.png" width="40" height="40"><a href="./Food-Items-Codes/Cauliflower.md"></a>
+         <a href="./Food-Items-Codes/Cauliflower.md"><img src="../Items-Images/Harvest-Items/Cauliflower.png" width="40" height="40"></a>
          Milk, Flour, Butter, Cheese, Salt
       </div></td>
    </tr>
