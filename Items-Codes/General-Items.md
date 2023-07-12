@@ -21,7 +21,6 @@
 | <img src="../Items-Images//Harvest-Items/Tomato.png">            | [Tomato](./Harvest-Items.md/#tomato)               | E      | This is wheat. |
 | <img src="../Items-Images//Harvest-Items/Wheat.png">             | [Wheat](./Harvest-Items.md/#wheat)                 | F      | This is wheat. |
 
-<a id="cauliflower"> </a>
 ### Food Items
 
 | Image                                                                | Name                                                              | Rarity | Description    |
@@ -44,7 +43,7 @@
 | <img src="../Items-Images//Food-Items/Grilled-Starfish.png">         | [Grilled Starfish](./Food-Items.md/#grilled-starfish)             | F      | This is wheat. |
 | <img src="../Items-Images//Food-Items/Hashbrowns.png">               | [Hashbrowns](./Food-Items.md/#hashbrowns)                         | F      | This is wheat. |
 | <img src="../Items-Images//Food-Items/Omelet.png">                   | [Omelet](./Food-Items.md/#omelet)                                 | F      | This is wheat. |
-| <img src="../Items-Images//Food-Items/Pancakes-With-Egg.png">        | [Pancakes With Egg](./Food-Items.md/#pancakes-with-egg)           | F      | This is wheat. |
+| <img src="../Items-Images//Food-Items/Pancakes-With-Egg.png">        | [Pancakes With Egg](./Food-Items.md/#pancakes-with-egg)           | F      | This is wheat. |<a id="cauliflower"> </a>
 | <img src="../Items-Images//Food-Items/Pancakes.png">                 | [Pancakes](./Food-Items.md/#pancakes)                             | F      | This is wheat. |
 | <img src="../Items-Images//Food-Items/Parsnip-Soup.png">             | [Parsnip Soupp](./Food-Items.md/#parsnip-soup)                    | F      | This is wheat. |
 | <img src="../Items-Images//Food-Items/Pepper-Pizza.png">             | [Pepper Pizza](./Food-Items.md/#pepper-pizza)                     | F      | This is wheat. |
