@@ -19,7 +19,7 @@
    <tr>
       <td><b><i><div align="center">  Image  </div></i></b></td>
       <td><b><i><div align="center">  Name  </div></i></b></td>
-      <td><b><i><div align="center">  Rarity  </div></i></b></td>
+      <td><b><i><div align="center">  Rank  </div></i></b></td>
       <td><b><i><div align="center">  Description  </div></i></b></td>
    </tr>
 
