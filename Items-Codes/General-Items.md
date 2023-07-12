@@ -11,15 +11,7 @@
 
 ### Harvest Items
 
-| Image                                                            | Name                                                    | Rarity | Description    | 
-| :--------------------------------------------------------------: | :-----------------------------------------------------: | :----: |:-------------- |
-| <img src="../Items-Images/Harvest-Items/Cauliflower.png">        | [Cauliflower](./Harvest-Items-Codes/Cauliflower.md)     | E      | This is wheat. |
-| <img src="../Items-Images/Harvest-Items/Corn.png">               | [Corn](./Harvest-Items-Codes/Corn.md)                   | E      | This is wheat. |
-| <img src="../Items-Images//Harvest-Items/Globe-Thistle.png">     | [Globe Thistle](./Harvest-Items-Codes/Globe-Thistle.mg) | E      | This is wheat. |
-| <img src="../Items-Images//Harvest-Items/Radish.png">            | [Radish](./Harvest-Items-Codes/Radish.md)               | F      | This is wheat. |
-| <img src="../Items-Images//Harvest-Items/Strawberry.png">        | [Strawberry](./Harvest-Items.md/#strawberry)            | D      | This is wheat. |
-| <img src="../Items-Images//Harvest-Items/Tomato.png">            | [Tomato](./Harvest-Items-Codes/Tomato.md)               | E      | This is wheat. |
-| <img src="../Items-Images//Harvest-Items/Wheat.png">             | [Wheat](./Harvest-Items-Codes/Wheat.md)                 | F      | This is wheat. |
+
 
 ### Food Items
 <div align="left">
@@ -30,22 +22,68 @@
       <td><b><i><div align="center">  Rarity  </div></i></b></td>
       <td><b><i><div align="center">  Description  </div></i></b></td>
    </tr>
+
+   
    <tr>
-      <td><a id="cauliflower"><img src="../Items-Images/Food-Items/Apple-Pie.png"></a></td>
-      <td><a href="./Food-Items.md/#apple-pie"> Apple Pie </a></td>
+      <td><a id="apple-pie"><img src="../Items-Images/Food-Items/Apple-Pie.png"></a></td>
+      <td><div align="center"><a href="./Food-Items-Codes/Apple Pie.md"> Apple Pie </a></div></td>
       <td><b><div align="center"> C </div></b></td>
       <td></td>
    </tr>
    <tr>
-      <td><img src="../Items-Images/Food-Items/Baked-Carp.png"></td>
-      <td><a href="./Food-Items.md/#apple-pie"> Baked Carp </a></td>
+      <td><a id="baked-carp"><img src="../Items-Images/Food-Items/Baked-Carp.png"></td>
+      <td><div align="center"><a href="./Food-Items.md/#baked-carp"> Baked Carp </a></div></td>
       <td><b><div align="center"> C </div></b></td>
       <td></td>
    </tr>
    <tr>
-      <td><img src="../Items-Images/Food-Items/Baked-Fish.png"></td>
-      <td><a href="./Food-Items.md/#apple-pie"> Baked Fish </a></td>
+      <td><a id="baked-fish"><img src="../Items-Images/Food-Items/Baked-Fish.png"></td>
+      <td><div align="center"><a href="./Food-Items.md/#baked-fish"> Baked Fish </a></div></td>
       <td><b><div align="center"> C </div></b></td>
+      <td></td>
+   </tr> 
+   <tr>
+      <td><a id="bread"><img src="../Items-Images/Food-Items/Bread.png"></td>
+      <td><div align="center"><a href="./Food-Items.md/#bread"> Bread </a></div></td>
+      <td><b><div align="center"> C </div></b></td>
+      <td></td>
+   </tr>
+   <tr>
+      <td><a id="candied-yams"><img src="../Items-Images/Food-Items/Candied-Yams.png"></td>
+      <td><a href="./Food-Items.md/#candied-yams"> Candied Yams </a></td></td>
+      <td><div align="center"><b><div align="center"> C </div></b></td>
+      <td></td>
+   </tr>
+
+
+   <tr>
+      <td><a id="cheese-cauliflower"><img src="../Items-Images/Food-Items/Cheese-Cauliflower.png"></a></td>
+      <td><div align="center"><a href="./Food-Items.md/#cheese-cauliflower"> Cheese Cauliflower </a></div></td>
+      <td><b><div align="center"> C </div></b></td>
+      <td></td>
+   </tr>
+   <tr>
+      <td><a id="chocolate-cake"><img src="../Items-Images/Food-Items/Chocolate-Cake.png"></td>
+      <td><div align="center"><a href="./Food-Items.md/#chocolate-cake"> Chocolate Cake </a></div></td>
+      <td><b><div align="center"> C </div></b></td>
+      <td></td>
+   </tr>
+   <tr>
+      <td><a id="baked-fish"><img src="../Items-Images/Food-Items/Baked-Fish.png"></td>
+      <td><div align="center"><a href="./Food-Items.md/#baked-fish"> Baked Fish </a></div></td>
+      <td><b><div align="center"> C </div></b></td>
+      <td></td>
+   </tr> 
+   <tr>
+      <td><a id="bread"><img src="../Items-Images/Food-Items/Bread.png"></td>
+      <td><div align="center"><a href="./Food-Items.md/#bread"> Bread </a></div></td>
+      <td><b><div align="center"> C </div></b></td>
+      <td></td>
+   </tr>
+   <tr>
+      <td><a id="baked-fish"><img src="../Items-Images/Food-Items/Candied-Yams.png"></td>
+      <td><a href="./Food-Items.md/#candied-yams"> Candied Yams </a></td></td>
+      <td><div align="center"><b><div align="center"> C </div></b></td>
       <td></td>
    </tr>
 </table>
