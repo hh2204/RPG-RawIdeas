@@ -4,9 +4,9 @@
 
 ## Table Of Contents
 1. <a href="#raw-items">Material Items</a>
-    * <a href="#harvest-items">Harvest Items</a>
-    * <a href="#food-items">Food Items</a>
+   * <a href="#harvest-items">Harvest Items</a>
 2. <a href="#crafting-items">Crafting Items</a>
+   * <a href="#food-items">Food Items</a>
 3. <a href="#equipment-items">Equipment Items</a>
 4. <a href="#charming-items">Charming Items</a>
 
