@@ -229,7 +229,10 @@
       <td><div align="center"><a href="./Food-Items-Codes/Parsnip-Soup.md"> Parsnip Soup </a></div></td>
       <td><b><div align="center"> C </div></b></td>
       <td></td>
-      <td><div align="center"> Parsnip, Olive Oil, Garlic, Tomato, Salt </div></td>
+      <td><div align="center"> Parsnip, Olive Oil, Garlic, 
+         <a href="./Harvest-Items-Codes/Tomato.md"><img src="../Items-Images/Harvest-Items/Tomato.png"></a>
+         Salt 
+      </div></td>
    </tr>
    <tr>
       <td><a id="pepper-pizza"><img src="../Items-Images/Food-Items/Pepper-Pizza.png"></a></td>
@@ -243,21 +246,30 @@
       <td><div align="center"><a href="./Food-Items-Codes/Salad.md"> Salad </a></div></td>
       <td><b><div align="center"> C </div></b></td>
       <td></td>
-      <td><div align="center"> Tomato, Bell Pepper, Egg, Lettuce </div></td>
+      <td><div align="center"> 
+         <a href="./Harvest-Items-Codes/Tomato.md"><img src="../Items-Images/Harvest-Items/Tomato.png"></a>
+         Bell Pepper, Egg, Lettuce 
+      </div></td>
    </tr>
    <tr>
       <td><a id="salmon-soup"><img src="../Items-Images/Food-Items/Salmon-Soup.png"></a></td>
       <td><div align="center"><a href="./Food-Items-Codes/Salmon-Soup.md"> Salmon Soup </a></div></td>
       <td><b><div align="center"> C </div></b></td>
       <td></td>
-      <td><div align="center"> Onion, Garlic, Salmon, Tomato/Potato/Carrot, Lemon </div></td>
+      <td><div align="center"> Onion, Garlic, Salmon, 
+         <a href="./Harvest-Items-Codes/Tomato.md"><img src="../Items-Images/Harvest-Items/Tomato.png"></a>
+         /Potato/Carrot, Lemon 
+      </div></td>
    </tr>
    <tr>
       <td><a id="spaghetti"><img src="../Items-Images/Food-Items/Spaghetti.png"></a></td>
       <td><div align="center"><a href="./Food-Items-Codes/Spaghetti.md"> Spaghetti </a></div></td>
       <td><b><div align="center"> C </div></b></td>
       <td></td>
-      <td><div align="center"> Tomato, Pork/Beef, Flour, Egg, Salt </div></td>
+      <td><div align="center"> 
+         <a href="./Harvest-Items-Codes/Tomato.md"><img src="../Items-Images/Harvest-Items/Tomato.png"></a>
+         Pork/Beef, Flour, Egg, Salt 
+      </div></td>
    </tr>
    <tr>
       <td><a id="stir-fried-bBeans"><img src="../Items-Images/Food-Items/Stir-Fried-Beans.png"></a></td>
@@ -278,7 +290,10 @@
       <td><div align="center"><a href="./Food-Items-Codes/Vegetable-Stew.md"> Vegetable Stew </a></div></td>
       <td><b><div align="center"> C </div></b></td>
       <td></td>
-      <td><div align="center"> Potato, Tomato, Carrot </div></td>
+      <td><div align="center"> Potato, 
+         <a href="./Harvest-Items-Codes/Tomato.md"><img src="../Items-Images/Harvest-Items/Tomato.png"></a>
+         Carrot 
+      </div></td>
    </tr>
    
    <tr>
