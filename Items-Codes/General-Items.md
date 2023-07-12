@@ -230,7 +230,7 @@
       <td><b><div align="center"> C </div></b></td>
       <td></td>
       <td><div align="center"> Parsnip, Olive Oil, Garlic, 
-         <a href="./Harvest-Items-Codes/Tomato.md"><img src="../Items-Images/Harvest-Items/Tomato.png"></a>
+         <a href="./Harvest-Items-Codes/Tomato.md"><img src="../Items-Images/Harvest-Items/Tomato.png" width="40" height="40"></a>
          Salt 
       </div></td>
    </tr>
@@ -247,7 +247,7 @@
       <td><b><div align="center"> C </div></b></td>
       <td></td>
       <td><div align="center"> 
-         <a href="./Harvest-Items-Codes/Tomato.md"><img src="../Items-Images/Harvest-Items/Tomato.png"></a>
+         <a href="./Harvest-Items-Codes/Tomato.md"><img src="../Items-Images/Harvest-Items/Tomato.png" width="40" height="40"></a>
          Bell Pepper, Egg, Lettuce 
       </div></td>
    </tr>
@@ -257,7 +257,7 @@
       <td><b><div align="center"> C </div></b></td>
       <td></td>
       <td><div align="center"> Onion, Garlic, Salmon, 
-         <a href="./Harvest-Items-Codes/Tomato.md"><img src="../Items-Images/Harvest-Items/Tomato.png"></a>
+         <a href="./Harvest-Items-Codes/Tomato.md"><img src="../Items-Images/Harvest-Items/Tomato.png" width="40" height="40"></a>
          /Potato/Carrot, Lemon 
       </div></td>
    </tr>
@@ -267,7 +267,7 @@
       <td><b><div align="center"> C </div></b></td>
       <td></td>
       <td><div align="center"> 
-         <a href="./Harvest-Items-Codes/Tomato.md"><img src="../Items-Images/Harvest-Items/Tomato.png"></a>
+         <a href="./Harvest-Items-Codes/Tomato.md"><img src="../Items-Images/Harvest-Items/Tomato.png" width="40" height="40"></a>
          Pork/Beef, Flour, Egg, Salt 
       </div></td>
    </tr>
@@ -291,7 +291,7 @@
       <td><b><div align="center"> C </div></b></td>
       <td></td>
       <td><div align="center"> Potato, 
-         <a href="./Harvest-Items-Codes/Tomato.md"><img src="../Items-Images/Harvest-Items/Tomato.png"></a>
+         <a href="./Harvest-Items-Codes/Tomato.md"><img src="../Items-Images/Harvest-Items/Tomato.png" width="40" height="40"></a>
          Carrot 
       </div></td>
    </tr>
