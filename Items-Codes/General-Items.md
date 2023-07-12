@@ -75,6 +75,7 @@
       <td><b><i><div align="center">  Name  </div></i></b></td>
       <td><b><i><div align="center">  Rarity  </div></i></b></td>
       <td><b><i><div align="center">  Description  </div></i></b></td>
+      <td><b><i><div align="center">  Recipe  </div></i></b></td>
    </tr>
 
    
@@ -83,6 +84,7 @@
       <td><div align="center"><a href="./Food-Items-Codes/Apple-Pie.md"> Apple Pie </a></div></td>
       <td><b><div align="center"> C </div></b></td>
       <td></td>
+      <td><div align="center"> Apple, Butter, Flour, Sugar </div></td>
    </tr>
    <tr>
       <td><a id="baked-carp"><img src="../Items-Images/Food-Items/Baked-Carp.png"></td>
