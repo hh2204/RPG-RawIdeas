@@ -1,1 +1,2 @@
-# Cauliflower &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Return to Items List](#./)
+# Cauliflower
+[`Return to Items List`](../General-Items.md/#harvest-items)
