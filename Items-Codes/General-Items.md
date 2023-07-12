@@ -8,24 +8,24 @@
     * <a href="#cauliflower">Food Items</a>
 
 ## Material Items
-
+<a id="cauliflower"> </a>
 ### Harvest Items
 
-| Image                                                            | Name                                               | Rarity | Description    |
-| :--------------------------------------------------------------: | :------------------------------------------------: | :----: |:-------------- |
+| Image                                                            | Name                                                    | Rarity | Description    |
+| :--------------------------------------------------------------: | :-----------------------------------------------------: | :----: |:-------------- |
 | <img src="../Items-Images/Harvest-Items/Cauliflower.png">        | [Cauliflower](./Harvest-Items-Codes/Cauliflower.md)     | E      | This is wheat. |
-| <img src="../Items-Images/Harvest-Items/Corn.png">               | [Corn](./Harvest-Items.md/#corn)                   | E      | This is wheat. |
-| <img src="../Items-Images//Harvest-Items/Globe-Thistle.png">     | [Globe Thistle](./Harvest-Items.md/#globe-thistle) | E      | This is wheat. |
-| <img src="../Items-Images//Harvest-Items/Radish.png">            | [Radish](./Harvest-Items.md/#radish)               | F      | This is wheat. |
-| <img src="../Items-Images//Harvest-Items/Strawberry.png">        | [Strawberry](./Harvest-Items.md/#strawberry)       | D      | This is wheat. |
-| <img src="../Items-Images//Harvest-Items/Tomato.png">            | [Tomato](./Harvest-Items.md/#tomato)               | E      | This is wheat. |
-| <img src="../Items-Images//Harvest-Items/Wheat.png">             | [Wheat](./Harvest-Items.md/#wheat)                 | F      | This is wheat. |
+| <img src="../Items-Images/Harvest-Items/Corn.png">               | [Corn](./Harvest-Items-Codes/Corn.md)                   | E      | This is wheat. |
+| <img src="../Items-Images//Harvest-Items/Globe-Thistle.png">     | [Globe Thistle](./Harvest-Items-Codes/Globe-Thistle.mg) | E      | This is wheat. |
+| <img src="../Items-Images//Harvest-Items/Radish.png">            | [Radish](./Harvest-Items-Codes/Radish.md)               | F      | This is wheat. |
+| <img src="../Items-Images//Harvest-Items/Strawberry.png">        | [Strawberry](./Harvest-Items.md/#strawberry)            | D      | This is wheat. |
+| <img src="../Items-Images//Harvest-Items/Tomato.png">            | [Tomato](./Harvest-Items-Codes/Tomato.md)               | E      | This is wheat. |
+| <img src="../Items-Images//Harvest-Items/Wheat.png">             | [Wheat](./Harvest-Items-Codes/Wheat.md)                 | F      | This is wheat. |
 
 ### Food Items
 
 | Image                                                                | Name                                                              | Rarity | Description    |
 | :------------------------------------------------------------------: | :---------------------------------------------------------------: | :----: |:-------------- |
-| <img src="../Items-Images//Food-Items/Apple-Pie.png">                | [Apple Pie](./Food-Items.md/#apple-pie) <a id="cauliflower"> </a>                          | D      | This is wheat. |
+| <img src="../Items-Images//Food-Items/Apple-Pie.png">                | [Apple Pie](./Food-Items.md/#apple-pie)                           | D      | This is wheat. |
 | <img src="../Items-Images//Food-Items/Baked-Carp.png">               | [Baked Carp](./Food-Items.md/#baked-carp)                         | C      | This is wheat. |
 | <img src="../Items-Images//Food-Items/Baked-Fish.png">               | [Baked Fish](./Food-Items.md/#baked-fish)                         | E      | This is wheat. |
 | <img src="../Items-Images//Food-Items/Bread.png">                    | [Bread](./Food-Items.md/#bread)                                   | F      | This is wheat. |
