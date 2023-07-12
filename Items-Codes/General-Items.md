@@ -164,6 +164,37 @@
       <td></td>
    </tr>
    <tr>
+      <td><a id="salmon-soup"><img src="../Items-Images/Food-Items/Salmon-Soup.png"></a></td>
+      <td><div align="center"><a href="./Food-Items-Codes/Salmon-Soup.md"> Salmon Soup </a></div></td>
+      <td><b><div align="center"> C </div></b></td>
+      <td></td>
+   </tr>
+   <tr>
+      <td><a id="spaghetti"><img src="../Items-Images/Food-Items/Spaghetti.png"></a></td>
+      <td><div align="center"><a href="./Food-Items-Codes/Spaghetti.md"> Spaghetti </a></div></td>
+      <td><b><div align="center"> C </div></b></td>
+      <td></td>
+   </tr>
+   <tr>
+      <td><a id="stir-fried-bBeans"><img src="../Items-Images/Food-Items/Stir-Fried-Beans.png"></a></td>
+      <td><div align="center"><a href="./Food-Items-Codes/Stir-Fried-Beans.md"> Stir Fried Beans </a></div></td>
+      <td><b><div align="center"> C </div></b></td>
+      <td></td>
+   </tr>
+   <tr>
+      <td><a id="tom-kha-soup"><img src="../Items-Images/Food-Items/Tom-Kha-Soup.png"></a></td>
+      <td><div align="center"><a href="./Food-Items-Codes/Tom-Kha-Soup.md"> Tom Kha Soup </a></div></td>
+      <td><b><div align="center"> C </div></b></td>
+      <td></td>
+   </tr>
+   <tr>
+      <td><a id="vegetable-stew"><img src="../Items-Images/Food-Items/Vegetable-Stew.png"></a></td>
+      <td><div align="center"><a href="./Food-Items-Codes/Vegetable-Stew.md"> Vegetable Stew </a></div></td>
+      <td><b><div align="center"> C </div></b></td>
+      <td></td>
+   </tr>
+   
+   <tr>
       <td><a id=""><img src="../Items-Images/Food-Items/.png"></a></td>
       <td><div align="center"><a href="./Food-Items-Codes/.md">  </a></div></td>
       <td><b><div align="center"> C </div></b></td>
