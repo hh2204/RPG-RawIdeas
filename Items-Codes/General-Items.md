@@ -5,7 +5,7 @@
 ## Table Of Contents
 1. <a href="#material-items">Material Items</a>
     * <a href="#harvest-items">Harvest Items</a>
-    * <a href="#cauliflower">Food Items</a>
+    * <a href="#food-items">Food Items</a>
 
 ## Material Items
 
