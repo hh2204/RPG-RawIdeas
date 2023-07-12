@@ -235,10 +235,7 @@
       <td><div align="center"><a href="./Food-Items-Codes/Parsnip-Soup.md"> Parsnip Soup </a></div></td>
       <td><b><div align="center"> C </div></b></td>
       <td></td>
-      <td><div align="center"> Parsnip, Olive Oil, Garlic, 
-         <a href="./Harvest-Items-Codes/Tomato.md"><img src="../Items-Images/Harvest-Items/Tomato.png" width="40" height="40"></a>
-         Salt 
-      </div></td>
+      <td><div align="center"> Parsnip, Olive Oil, Garlic, Salt </div></td>
    </tr>
    <tr>
       <td><a id="pepper-pizza"><img src="../Items-Images/Food-Items/Pepper-Pizza.png"></a></td>
