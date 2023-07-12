@@ -4,15 +4,15 @@
 
 ## Table Of Contents
 1. <a href="#material-items">Material Items</a>
-    * [Harvest Items](#harvest-items)
+    * <a href="#harvest-items">Harvest Items</a>
 
 ## Material Items <a id="material-items"></a>
 
-### Harvest Items
+### Harvest Items <a id="harvest-items"></a>
 
 | Image                                             | Name                                               | Rarity | Description    |
 | :-----------------------------------------------: | :------------------------------------------------: | :----: |:-------------- |
-| <img src="./Harvest-Items/Cauliflower.png">       | [Cauliflower](./Harvest-Items.md/#cauliflower)     | E      | This is wheat. |
+| <img src="./Harvest-Items/Cauliflower.png">       | <a href="./Harvest-Items.md/#cauliflower"> Cauliflower </a>    | E      | This is wheat. |
 | <img src="./Harvest-Items/Corn.png">              | [Corn](./Harvest-Items.md/#corn)                   | E      | This is wheat. |
 | <img src="./Harvest-Items/Globe-Thistle.png">     | [Globe Thistle](./Harvest-Items.md/#globe-thistle) | E      | This is wheat. |
 | <img src="./Harvest-Items/Radish.png">            | [Radish](./Harvest-Items.md/#radish)               | F      | This is wheat. |
