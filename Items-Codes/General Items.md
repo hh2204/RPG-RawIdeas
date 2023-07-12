@@ -23,31 +23,31 @@
 
    
    <tr>
-      <td><a id="Apple Pie"><img src="../Items-Images/Food-Items/Apple-Pie.png"></a></td>
+      <td><a id="apple-pie"><img src="../Items-Images/Food-Items/Apple-Pie.png"></a></td>
       <td><div align="center"><a href="./Food-Items-Codes/Apple Pie.md"> Apple Pie </a></div></td>
       <td><b><div align="center"> C </div></b></td>
       <td></td>
    </tr>
    <tr>
-      <td><a id="Baked Carp"><img src="../Items-Images/Food-Items/Baked-Carp.png"></td>
+      <td><a id="baked-carp"><img src="../Items-Images/Food-Items/Baked-Carp.png"></td>
       <td><div align="center"><a href="./Food-Items-Codes/Baked Carp.md"> Baked Carp </a></div></td>
       <td><b><div align="center"> C </div></b></td>
       <td></td>
    </tr>
    <tr>
-      <td><a id="Baked Fish"><img src="../Items-Images/Food-Items/Baked-Fish.png"></td>
+      <td><a id="baked-fish"><img src="../Items-Images/Food-Items/Baked-Fish.png"></td>
       <td><div align="center"><a href="./Food-Items-Codes/Baked Fish.md"> Baked Fish </a></div></td>
       <td><b><div align="center"> C </div></b></td>
       <td></td>
    </tr> 
    <tr>
-      <td><a id="Bread"><img src="../Items-Images/Food-Items/Bread.png"></td>
+      <td><a id="bread"><img src="../Items-Images/Food-Items/Bread.png"></td>
       <td><div align="center"><a href="./Food-Items-Codes/Bread.md"> Bread </a></div></td>
       <td><b><div align="center"> C </div></b></td>
       <td></td>
    </tr>
    <tr>
-      <td><a id="Candied Yams"><img src="../Items-Images/Food-Items/Candied-Yams.png"></td>
+      <td><a id="candied-yams"><img src="../Items-Images/Food-Items/Candied-Yams.png"></td>
       <td><div align="center"><a href="./Food-Items-Codes/Candied Yams.md"> Candied Yams </a></div></td>
       <td><div align="center"><b><div align="center"> C </div></b></td>
       <td></td>
