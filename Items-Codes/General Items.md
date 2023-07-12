@@ -25,7 +25,7 @@
 
    
    <tr>
-      <td><a id="apple-pie"><a href="./Food-Items-Codes/Apple Pie.md"><img src="../Items-Images/Food-Items/Apple-Pie.png"></a></a></td>
+      <td><a id="apple-pie"><img src="../Items-Images/Food-Items/Apple-Pie.png"></a></td>
       <td><div align="center"><a href="./Food-Items-Codes/Apple Pie.md"> Apple Pie </a></div></td>
       <td><b><div align="center"> C </div></b></td>
       <td></td>
