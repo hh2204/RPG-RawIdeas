@@ -5,10 +5,11 @@
 ## Table Of Contents
 1. <a href="#material-items">Material Items</a>
     * <a href="#harvest-items">Harvest Items</a>
+    * <a href="#food-items">Food Items</a>
 
-## Material Items <a id="material-items"></a>
+## Material Items
 
-### Harvest Items <a id="harvest-items"></a>
+### Harvest Items
 
 | Image                                             | Name                                               | Rarity | Description    |
 | :-----------------------------------------------: | :------------------------------------------------: | :----: |:-------------- |
