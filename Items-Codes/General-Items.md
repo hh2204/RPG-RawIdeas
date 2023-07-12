@@ -31,7 +31,7 @@
       <td><b><i><div align="center">  Description  </div></i></b></td>
    </tr>
    <tr>
-      <td><img src="../Items-Images/Food-Items/Apple-Pie.png"></td><a id="cauliflower"> </a>
+      <td><a id="cauliflower"><img src="../Items-Images/Food-Items/Apple-Pie.png"></a></td>
       <td><a href="./Food-Items.md/#apple-pie"> Apple Pie </a></td>
       <td><b><div align="center"> C </div></b></td>
       <td></td>
