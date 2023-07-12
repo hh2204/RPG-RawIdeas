@@ -6,7 +6,7 @@
 1. [Material Items](#material-items)
     * [Harvest Items](#harvest-items)
 
-## Material Items
+## <a id="materialitems">Material Items</a>
 
 ### Harvest Items
 
@@ -19,6 +19,7 @@
 | <img src="./Harvest-Items/Strawberry.png">        | [Strawberry](./Harvest-Items.md/#strawberry)       | D      | This is wheat. |
 | <img src="./Harvest-Items/Tomato.png">            | [Tomato](./Harvest-Items.md/#tomato)               | E      | This is wheat. |
 | <img src="./Harvest-Items/Wheat.png">             | [Wheat](./Harvest-Items.md/#wheat)                 | F      | This is wheat. |
+
 
 ### Food Items
 
@@ -52,3 +53,5 @@
 | <img src="./Food-Items/Stir-Fried-Beans.png">         | [Stir Fried Beans](./Food-Items.md/#stir-fried-beans)                 | F      | This is wheat. |
 | <img src="./Food-Items/Tom-Kha-Soup.png">             | [Tom Kha Soup](./Food-Items.md/#tom-kha-soup)                 | F      | This is wheat. |
 | <img src="./Food-Items/Vegetable-Stew.png">           | [Vegetable Stew](./Food-Items.md/#vegetable-stew)                 | F      | This is wheat. |
+
+<a href="#materialitems">Click here to see the content below.</a>
