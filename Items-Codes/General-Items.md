@@ -23,43 +23,43 @@
    
    <tr>
       <td><a id="cauliflower"><img src="../Items-Images/Harvest-Items/Cauliflower.png"></a></td>
-      <td><div align="center"><a href="./Food-Items-Codes/Cauliflower.md"> Cauliflower </a></div></td>
+      <td><div align="center"><a href="./Harvest-Items-Codes/Cauliflower.md"> Cauliflower </a></div></td>
       <td><b><div align="center"> E </div></b></td>
       <td></td>
    </tr>
    <tr>
       <td><a id="corn"><img src="../Items-Images/Harvest-Items/Corn.png"></td>
-      <td><div align="center"><a href="./Food-Items-Codes/Corn.md"> Corn </a></div></td>
+      <td><div align="center"><a href="./Harvest-Items-Codes/Corn.md"> Corn </a></div></td>
       <td><b><div align="center"> E </div></b></td>
       <td></td>
    </tr>
    <tr>
       <td><a id="globe-thistle"><img src="../Items-Images/Harvest-Items/Globe-Thistle.png"></td>
-      <td><div align="center"><a href="./Food-Items-Codes/Globe-Thistle.md"> Globe Thistle </a></div></td>
+      <td><div align="center"><a href="./Harvest-Items-Codes/Globe-Thistle.md"> Globe Thistle </a></div></td>
       <td><b><div align="center"> E </div></b></td>
       <td></td>
    </tr> 
    <tr>
       <td><a id="radish"><img src="../Items-Images/Harvest-Items/Radish.png"></td>
-      <td><div align="center"><a href="./Food-Items-Codes/Radish.md"> Radish </a></div></td>
+      <td><div align="center"><a href="./Harvest-Items-Codes/Radish.md"> Radish </a></div></td>
       <td><b><div align="center"> F </div></b></td>
       <td></td>
    </tr>
    <tr>
       <td><a id="strawberry"><img src="../Items-Images/Harvest-Items/Strawberry.png"></td>
-      <td><div align="center"><a href="./Food-Items-Codes/Strawberry.md"> Strawberry </a></div></td>
+      <td><div align="center"><a href="./Harvest-Items-Codes/Strawberry.md"> Strawberry </a></div></td>
       <td><b><div align="center"> D </div></b></td>
       <td></td>
    </tr>
    <tr>
       <td><a id="tomato"><img src="../Items-Images/Harvest-Items/Tomato.png"></a></td>
-      <td><div align="center"><a href="./Food-Items-Codes/Tomato.md"> Tomato </a></div></td>
+      <td><div align="center"><a href="./Harvest-Items-Codes/Tomato.md"> Tomato </a></div></td>
       <td><b><div align="center"> E </div></b></td>
       <td></td>
    </tr>
    <tr>
       <td><a id="wheat"><img src="../Items-Images/Harvest-Items/Wheat.png"></td>
-      <td><div align="center"><a href="./Food-Items-Codes/Wheat.md"> Wheat </a></div></td>
+      <td><div align="center"><a href="./Harvest-Items-Codes/Wheat.md"> Wheat </a></div></td>
       <td><b><div align="center"> F </div></b></td>
       <td></td>
    </tr>
@@ -120,7 +120,7 @@
       <td><b><div align="center"> C </div></b></td>
       <td></td>
       <td><div align="center"> 
-         <a href="./Food-Items-Codes/Cauliflower.md"><img src="../Items-Images/Harvest-Items/Cauliflower.png" width="40" height="40"></a>
+         <a href="./Harvest-Items-Codes/Cauliflower.md"><img src="../Items-Images/Harvest-Items/Cauliflower.png" width="40" height="40"></a>
          Milk, Flour, Butter, Cheese, Salt
       </div></td>
    </tr>
