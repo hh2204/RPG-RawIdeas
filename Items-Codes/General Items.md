@@ -11,11 +11,9 @@
 
 ### Harvest Items
 
-
-
 ### Food Items
 <div align="left">
-<table>
+<table border="1">
    <tr>
       <td><b><i><div align="center">  Image  </div></i></b></td>
       <td><b><i><div align="center">  Name  </div></i></b></td>
@@ -25,31 +23,31 @@
 
    
    <tr>
-      <td><a id="apple-pie"><img src="../Items-Images/Food-Items/Apple-Pie.png"></a></td>
+      <td><a id="Apple Pie"><img src="../Items-Images/Food-Items/Apple-Pie.png"></a></td>
       <td><div align="center"><a href="./Food-Items-Codes/Apple Pie.md"> Apple Pie </a></div></td>
       <td><b><div align="center"> C </div></b></td>
       <td></td>
    </tr>
    <tr>
-      <td><a id="baked-carp"><img src="../Items-Images/Food-Items/Baked-Carp.png"></td>
+      <td><a id="Baked Carp"><img src="../Items-Images/Food-Items/Baked-Carp.png"></td>
       <td><div align="center"><a href="./Food-Items-Codes/Baked Carp.md"> Baked Carp </a></div></td>
       <td><b><div align="center"> C </div></b></td>
       <td></td>
    </tr>
    <tr>
-      <td><a id="baked-fish"><img src="../Items-Images/Food-Items/Baked-Fish.png"></td>
+      <td><a id="Baked Fish"><img src="../Items-Images/Food-Items/Baked-Fish.png"></td>
       <td><div align="center"><a href="./Food-Items-Codes/Baked Fish.md"> Baked Fish </a></div></td>
       <td><b><div align="center"> C </div></b></td>
       <td></td>
    </tr> 
    <tr>
-      <td><a id="bread"><img src="../Items-Images/Food-Items/Bread.png"></td>
+      <td><a id="Bread"><img src="../Items-Images/Food-Items/Bread.png"></td>
       <td><div align="center"><a href="./Food-Items-Codes/Bread.md"> Bread </a></div></td>
       <td><b><div align="center"> C </div></b></td>
       <td></td>
    </tr>
    <tr>
-      <td><a id="candied-yams"><img src="../Items-Images/Food-Items/Candied-Yams.png"></td>
+      <td><a id="Candied Yams"><img src="../Items-Images/Food-Items/Candied-Yams.png"></td>
       <td><div align="center"><a href="./Food-Items-Codes/Candied Yams.md"> Candied Yams </a></div></td>
       <td><div align="center"><b><div align="center"> C </div></b></td>
       <td></td>
@@ -123,44 +121,50 @@
 
    
    <tr>
-      <td><a id=""><img src="../Items-Images/Food-Items/"></a></td>
-      <td><div align="center"><a href="./Food-Items-Codes/">  </a></div></td>
+      <td><a id="hashbrowns"><img src="../Items-Images/Food-Items/Hashbrowns.png"></a></td>
+      <td><div align="center"><a href="./Food-Items-Codes/Hashbrowns.md"> Hashbrowns </a></div></td>
       <td><b><div align="center"> C </div></b></td>
       <td></td>
    </tr>
    <tr>
-      <td><a id=""><img src="../Items-Images/Food-Items/"></a></td>
-      <td><div align="center"><a href="./Food-Items-Codes/">  </a></div></td>
+      <td><a id="omelet"><img src="../Items-Images/Food-Items/Omelet.png"></a></td>
+      <td><div align="center"><a href="./Food-Items-Codes/Omelet.md"> Omelet </a></div></td>
       <td><b><div align="center"> C </div></b></td>
       <td></td>
    </tr>
    <tr>
-      <td><a id=""><img src="../Items-Images/Food-Items/"></a></td>
-      <td><div align="center"><a href="./Food-Items-Codes/">  </a></div></td>
+      <td><a id="pancakes-with-egg"><img src="../Items-Images/Food-Items/Pancakes-With-Egg.png"></a></td>
+      <td><div align="center"><a href="./Food-Items-Codes/Pancakes With Egg.md"> Pancakes With Egg </a></div></td>
       <td><b><div align="center"> C </div></b></td>
       <td></td>
    </tr>
    <tr>
-      <td><a id=""><img src="../Items-Images/Food-Items/"></a></td>
-      <td><div align="center"><a href="./Food-Items-Codes/">  </a></div></td>
+      <td><a id="pancakes"><img src="../Items-Images/Food-Items/Pancakes.png"></a></td>
+      <td><div align="center"><a href="./Food-Items-Codes/Pancakes.md"> Pancakes </a></div></td>
       <td><b><div align="center"> C </div></b></td>
       <td></td>
    </tr>
    <tr>
-      <td><a id=""><img src="../Items-Images/Food-Items/"></a></td>
-      <td><div align="center"><a href="./Food-Items-Codes/">  </a></div></td>
+      <td><a id="parsnip-soup"><img src="../Items-Images/Food-Items/Parsnip-Soup.png"></a></td>
+      <td><div align="center"><a href="./Food-Items-Codes/Parsnip Soup.md"> Parsnip Soup </a></div></td>
       <td><b><div align="center"> C </div></b></td>
       <td></td>
    </tr>
    <tr>
-      <td><a id=""><img src="../Items-Images/Food-Items/"></a></td>
-      <td><div align="center"><a href="./Food-Items-Codes/">  </a></div></td>
+      <td><a id="pepper-pizza"><img src="../Items-Images/Food-Items/Pepper-Pizza.png"></a></td>
+      <td><div align="center"><a href="./Food-Items-Codes/Pepper Pizza.md"> Pepper Pizza </a></div></td>
       <td><b><div align="center"> C </div></b></td>
       <td></td>
    </tr>
    <tr>
-      <td><a id=""><img src="../Items-Images/Food-Items/"></a></td>
-      <td><div align="center"><a href="./Food-Items-Codes/">  </a></div></td>
+      <td><a id="salad"><img src="../Items-Images/Food-Items/Salad.png"></a></td>
+      <td><div align="center"><a href="./Food-Items-Codes/Salad.md"> Salad </a></div></td>
+      <td><b><div align="center"> C </div></b></td>
+      <td></td>
+   </tr>
+   <tr>
+      <td><a id=""><img src="../Items-Images/Food-Items/.png"></a></td>
+      <td><div align="center"><a href="./Food-Items-Codes/.md">  </a></div></td>
       <td><b><div align="center"> C </div></b></td>
       <td></td>
    </tr>
