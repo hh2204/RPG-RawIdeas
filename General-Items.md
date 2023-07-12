@@ -3,10 +3,10 @@
 ## Introductions
 
 ## Table Of Contents
-1. [Material Items](#material-items)
+1. <a href="#material-items">Material Items</a>
     * [Harvest Items](#harvest-items)
 
-## <a id="materialitems">Material Items</a>
+## Material Items <a id="material-items"></a>
 
 ### Harvest Items
 
@@ -53,5 +53,3 @@
 | <img src="./Food-Items/Stir-Fried-Beans.png">         | [Stir Fried Beans](./Food-Items.md/#stir-fried-beans)                 | F      | This is wheat. |
 | <img src="./Food-Items/Tom-Kha-Soup.png">             | [Tom Kha Soup](./Food-Items.md/#tom-kha-soup)                 | F      | This is wheat. |
 | <img src="./Food-Items/Vegetable-Stew.png">           | [Vegetable Stew](./Food-Items.md/#vegetable-stew)                 | F      | This is wheat. |
-
-<a href="#materialitems">Click here to see the content below.</a>
