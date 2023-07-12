@@ -68,7 +68,13 @@
    </tr>
 </table>
 </div>
-         
+
+---
+
+
+
+## Crafting Items
+
 ### Food Items
 
 <div align="left">
@@ -312,7 +318,7 @@
 </table>
 </div>
 
-## Crafting Items
+---
 
 ## Equipment Items
 
