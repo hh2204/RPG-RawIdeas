@@ -36,7 +36,7 @@
    
    <tr>
       <td><a id="cauliflower"><img src="./Material-Items/Harvest-Items-Images/Cauliflower.png"></a></td>
-      <td><div align="center"><a href="./Harvest-Items-Codes/Cauliflower.md"> Cauliflower </a></div></td>
+      <td><div align="center"><a href="./Material-Items/Harvest-Items-Codes/Cauliflower.md"> Cauliflower </a></div></td>
       <td><b><div align="center"> E </div></b></td>
       <td></td>
    </tr>
