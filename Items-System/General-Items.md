@@ -358,6 +358,25 @@
 
 <div align="right"><table><tr><td><a href="#table-of-contents"> :arrow_up: Table Of Contents </a></td></tr></table></div>
 
+<div align="left">
+<table border="1">
+   <tr>
+      <td><b><i><div align="center">  Image  </div></i></b></td>
+      <td><b><i><div align="center">  Name  </div></i></b></td>
+      <td><b><i><div align="center">  Rank  </div></i></b></td>
+      <td><b><i><div align="center">  Description  </div></i></b></td>
+   </tr>
+
+   
+   <tr>
+      <td><a id="lunarium-sword"><img src="./Weapon-Items/Melee-Weapon-Images/Short-Sword/Lunarium-Sword.png" width="50" height="50"></a></td>
+      <td><div align="center"><a href="./Weapon-Items/Melee-Weapon-Codes/Short-Sword/Lunarium-Sword.md"> Cauliflower </a></div></td>
+      <td><b><div align="center"> E </div></b></td>
+      <td></td>
+   </tr>
+</table>
+</div>
+         
 ---
 
 ### Ranged Weapon Items
