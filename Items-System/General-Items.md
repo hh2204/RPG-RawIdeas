@@ -71,7 +71,9 @@
 
 ---
 
+### Looting Items
 
+### Exploiting Items
 
 ## Crafting Items
 
