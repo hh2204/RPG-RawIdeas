@@ -42,37 +42,37 @@
    </tr>
    <tr>
       <td><a id="corn"><img src="./Material-Items/Harvest-Items-Images/Corn.png"></td>
-      <td><div align="center"><a href="./Harvest-Items-Codes/Corn.md"> Corn </a></div></td>
+      <td><div align="center"><a href="./Material-Items/Harvest-Items-Codes/Corn.md"> Corn </a></div></td>
       <td><b><div align="center"> E </div></b></td>
       <td></td>
    </tr>
    <tr>
       <td><a id="globe-thistle"><img src="./Material-Items/Harvest-Items-Images/Globe-Thistle.png"></td>
-      <td><div align="center"><a href="./Harvest-Items-Codes/Globe-Thistle.md"> Globe Thistle </a></div></td>
+      <td><div align="center"><a href="./Material-Items/Harvest-Items-Codes/Globe-Thistle.md"> Globe Thistle </a></div></td>
       <td><b><div align="center"> E </div></b></td>
       <td></td>
    </tr> 
    <tr>
       <td><a id="radish"><img src="./Material-Items/Harvest-Items-Images/Radish.png"></td>
-      <td><div align="center"><a href="./Harvest-Items-Codes/Radish.md"> Radish </a></div></td>
+      <td><div align="center"><a href="./Material-Items/Harvest-Items-Codes/Radish.md"> Radish </a></div></td>
       <td><b><div align="center"> F </div></b></td>
       <td></td>
    </tr>
    <tr>
       <td><a id="strawberry"><img src="./Material-Items/Harvest-Items-Images/Strawberry.png"></td>
-      <td><div align="center"><a href="./Harvest-Items-Codes/Strawberry.md"> Strawberry </a></div></td>
+      <td><div align="center"><a href="./Material-Items/Harvest-Items-Codes/Strawberry.md"> Strawberry </a></div></td>
       <td><b><div align="center"> D </div></b></td>
       <td></td>
    </tr>
    <tr>
       <td><a id="tomato"><img src="./Material-Items/Harvest-Items-Images/Tomato.png"></a></td>
-      <td><div align="center"><a href="./Harvest-Items-Codes/Tomato.md"> Tomato </a></div></td>
+      <td><div align="center"><a href="./Material-Items/Harvest-Items-Codes/Tomato.md"> Tomato </a></div></td>
       <td><b><div align="center"> E </div></b></td>
       <td></td>
    </tr>
    <tr>
       <td><a id="wheat"><img src="./Material-Items/Harvest-Items-Images/Wheat.png"></td>
-      <td><div align="center"><a href="./Harvest-Items-Codes/Wheat.md"> Wheat </a></div></td>
+      <td><div align="center"><a href="./Material-Items/Harvest-Items-Codes/Wheat.md"> Wheat </a></div></td>
       <td><b><div align="center"> F </div></b></td>
       <td></td>
    </tr>
