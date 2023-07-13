@@ -5,12 +5,15 @@
 ## Table Of Contents
 1. <a href="#material-items">Raw Items</a>
    * <a href="#harvest-items">Harvest Items</a>
+   * <a href="#looting-items">Harvest Items</a>
 2. <a href="#crafting-items">Crafting Items</a>
    * <a href="#food-items">Food Items</a>
 3. <a href="#equipment-items">Equipment Items</a>
 4. <a href="#charming-items">Charming Items</a>
 
-## Material Items
+<div align="center"><b><font  Material Items </b></div>
+
+---
 
 ### Harvest Items
 
@@ -71,9 +74,17 @@
 
 ---
 
+### Looting Items
 
+---
+
+### Exploiting Items
+
+---
 
 ## Crafting Items
+
+---
 
 ### Food Items
 
@@ -318,6 +329,42 @@
 
 ---
 
-## Equipment Items
+### Crafting Items
+
+---
+
+### Potion Items
+
+---
+
+## Weapon Items
+
+---
+
+### Melee Weapon Items
+
+---
+
+### Ranged Weapon Items
+
+---
+
+## Armor Items
+
+---
+
+### Armor Items
+
+---
 
 ## Charming Items
+
+---
+
+### Jewelry Items
+
+---
+
+### Treasure Items
+
+---
