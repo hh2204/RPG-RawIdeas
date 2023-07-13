@@ -97,7 +97,7 @@
 
 ### Food Items
 
-<div align="right"><table><tr><td><a href="#table-of-contents"> :arrow_up: Return to Table Of Contents </a></td></tr></table></div>
+<div align="right"><table><tr><td><a href="#table-of-contents"> :arrow_up: </a></td></tr></table></div>
 
 <div align="left">
 <table border="1">
