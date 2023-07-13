@@ -22,7 +22,7 @@
 
 ### Harvest Items
 
-<div align="right"><table><tr><td><a href="#table-of-contents"> :arrow_up: </a></td></tr></table></div>
+<div align="right"><table><tr><td><a href="#table-of-contents"> :arrow_up: Table Of Contents </a></td></tr></table></div>
 
 <div align="left">
 <table border="1">
@@ -83,13 +83,13 @@
 
 ### Looting Items
 
-<div align="right"><table><tr><td><a href="#table-of-contents"> :arrow_up: Return to Table Of Contents </a></td></tr></table></div>
+<div align="right"><table><tr><td><a href="#table-of-contents"> :arrow_up: Table Of Contents </a></td></tr></table></div>
 
 ---
 
 ### Exploiting Items
 
-<div align="right"><table><tr><td><a href="#table-of-contents"> :arrow_up: Return to Table Of Contents </a></td></tr></table></div>
+<div align="right"><table><tr><td><a href="#table-of-contents"> :arrow_up: Table Of Contents </a></td></tr></table></div>
 
 ---
 
@@ -97,7 +97,7 @@
 
 ### Food Items
 
-<div align="right"><table><tr><td><a href="#table-of-contents"> :arrow_up: </a></td></tr></table></div>
+<div align="right"><table><tr><td><a href="#table-of-contents"> :arrow_up: Table Of Contents </a></td></tr></table></div>
 
 <div align="left">
 <table border="1">
@@ -342,13 +342,13 @@
 
 ### Crafting Items
 
-<div align="right"><table><tr><td><a href="#table-of-contents"> :arrow_up: Return to Table Of Contents </a></td></tr></table></div>
+<div align="right"><table><tr><td><a href="#table-of-contents"> :arrow_up: Table Of Contents </a></td></tr></table></div>
 
 ---
 
 ### Potion Items
 
-<div align="right"><table><tr><td><a href="#table-of-contents"> :arrow_up: Return to Table Of Contents </a></td></tr></table></div>
+<div align="right"><table><tr><td><a href="#table-of-contents"> :arrow_up: Table Of Contents </a></td></tr></table></div>
 
 ---
 
@@ -356,13 +356,13 @@
 
 ### Melee Weapon Items
 
-<div align="right"><table><tr><td><a href="#table-of-contents"> :arrow_up: Return to Table Of Contents </a></td></tr></table></div>
+<div align="right"><table><tr><td><a href="#table-of-contents"> :arrow_up: Table Of Contents </a></td></tr></table></div>
 
 ---
 
 ### Ranged Weapon Items
 
-<div align="right"><table><tr><td><a href="#table-of-contents"> :arrow_up: Return to Table Of Contents </a></td></tr></table></div>
+<div align="right"><table><tr><td><a href="#table-of-contents"> :arrow_up: Table Of Contents </a></td></tr></table></div>
 
 ---
 
@@ -370,7 +370,7 @@
 
 ### Armor Items
 
-<div align="right"><table><tr><td><a href="#table-of-contents"> :arrow_up: Return to Table Of Contents </a></td></tr></table></div>
+<div align="right"><table><tr><td><a href="#table-of-contents"> :arrow_up: Table Of Contents </a></td></tr></table></div>
 
 ---
 
@@ -378,12 +378,12 @@
 
 ### Jewelry Items
 
-<div align="right"><table><tr><td><a href="#table-of-contents"> :arrow_up: Return to Table Of Contents </a></td></tr></table></div>
+<div align="right"><table><tr><td><a href="#table-of-contents"> :arrow_up: Table Of Contents </a></td></tr></table></div>
 
 ---
 
 ### Treasure Items
 
-<div align="right"><table><tr><td><a href="#table-of-contents"> :arrow_up: Return to Table Of Contents </a></td></tr></table></div>
+<div align="right"><table><tr><td><a href="#table-of-contents"> :arrow_up: Table Of Contents </a></td></tr></table></div>
 
 ---
