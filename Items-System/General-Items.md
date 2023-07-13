@@ -1,19 +1,24 @@
-# General Items
+<div align="center"><h1><b>  General Items List </b></h1></div>
 
 ## Introductions
 
 ## Table Of Contents
-1. <a href="#material-items">Raw Items</a>
-   * <a href="#harvest-items">Harvest Items</a>
-   * <a href="#looting-items">Harvest Items</a>
-2. <a href="#crafting-items">Crafting Items</a>
-   * <a href="#food-items">Food Items</a>
-3. <a href="#equipment-items">Equipment Items</a>
-4. <a href="#charming-items">Charming Items</a>
+1. <a href="#material-items"> Material Items </a>
+    * <a href="#harvest-items"> Harvest Items </a>
+    * <a href="#looting-items"> Looting Items </a>
+    * <a href="#exploiting-items"> Exploiting Items </a>
+2. <a href="#crafting-items"> Crafting Items </a>
+    * <a href="#food-items"> Food Items </a>
+    * <a href="#crafting-items"> Crafting Items </a>
+    * <a href="#potion-items"> Potion Items </a>
+3. <a href="#weapon-items"> Weapon Items </a>
+    * <a href="#melee-weapon-items"> Melee Weapon Items </a>
+    * <a href="#ranged-weapon-items"> Ranged Weapon Items </a>
+4. <a href="#charming-items"> Charming Items </a>
+    * <a href="#jewelry-items"> Jewelry Items </a>
+    * <a href="#treasure-items"> Treasure Items </a>
 
-<div align="center"><b><font  Material Items </b></div>
-
----
+# Material Items 
 
 ### Harvest Items
 
@@ -83,8 +88,6 @@
 ---
 
 ## Crafting Items
-
----
 
 ### Food Items
 
@@ -339,8 +342,6 @@
 
 ## Weapon Items
 
----
-
 ### Melee Weapon Items
 
 ---
@@ -351,15 +352,11 @@
 
 ## Armor Items
 
----
-
 ### Armor Items
 
 ---
 
 ## Charming Items
-
----
 
 ### Jewelry Items
 
