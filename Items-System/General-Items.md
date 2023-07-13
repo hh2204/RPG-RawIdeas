@@ -22,8 +22,6 @@
 
 ### Harvest Items
 
-`[Return to Table Of Contents](#table-of-contents)`
-
 <div align="left">
 <table border="1">
    <tr>
