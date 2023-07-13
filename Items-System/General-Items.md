@@ -25,7 +25,7 @@
 <div align="right"><table><tr><td><a href="#table-of-contents"> :arrow_up: Table Of Contents </a></td></tr></table></div>
 
 <div align="left">
-<table border="1">
+<table border="2">
    <tr>
       <td><b><i><div align="center">  Image  </div></i></b></td>
       <td><b><i><div align="center">  Name  </div></i></b></td>
