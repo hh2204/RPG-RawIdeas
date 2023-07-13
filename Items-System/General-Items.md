@@ -3,14 +3,14 @@
 ## Introductions
 
 ## Table Of Contents
-1. <a href="#raw-items">Raw Items</a>
+1. <a href="#material-items">Raw Items</a>
    * <a href="#harvest-items">Harvest Items</a>
 2. <a href="#crafting-items">Crafting Items</a>
    * <a href="#food-items">Food Items</a>
 3. <a href="#equipment-items">Equipment Items</a>
 4. <a href="#charming-items">Charming Items</a>
 
-## Raw Items
+## Material Items
 
 ### Harvest Items
 
@@ -25,43 +25,43 @@
 
    
    <tr>
-      <td><a id="cauliflower"><img src="./Raw-Items/Harvest-Items-Images/Cauliflower.png"></a></td>
+      <td><a id="cauliflower"><img src="./Material-Items/Harvest-Items-Images/Cauliflower.png"></a></td>
       <td><div align="center"><a href="./Harvest-Items-Codes/Cauliflower.md"> Cauliflower </a></div></td>
       <td><b><div align="center"> E </div></b></td>
       <td></td>
    </tr>
    <tr>
-      <td><a id="corn"><img src="./Raw-Items/Harvest-Items-Images/Corn.png"></td>
+      <td><a id="corn"><img src="./Material-Items/Harvest-Items-Images/Corn.png"></td>
       <td><div align="center"><a href="./Harvest-Items-Codes/Corn.md"> Corn </a></div></td>
       <td><b><div align="center"> E </div></b></td>
       <td></td>
    </tr>
    <tr>
-      <td><a id="globe-thistle"><img src="./Raw-Items/Harvest-Items-Images/Globe-Thistle.png"></td>
+      <td><a id="globe-thistle"><img src="./Material-Items/Harvest-Items-Images/Globe-Thistle.png"></td>
       <td><div align="center"><a href="./Harvest-Items-Codes/Globe-Thistle.md"> Globe Thistle </a></div></td>
       <td><b><div align="center"> E </div></b></td>
       <td></td>
    </tr> 
    <tr>
-      <td><a id="radish"><img src="./Raw-Items/Harvest-Items-Images/Radish.png"></td>
+      <td><a id="radish"><img src="./Material-Items/Harvest-Items-Images/Radish.png"></td>
       <td><div align="center"><a href="./Harvest-Items-Codes/Radish.md"> Radish </a></div></td>
       <td><b><div align="center"> F </div></b></td>
       <td></td>
    </tr>
    <tr>
-      <td><a id="strawberry"><img src="./Raw-Items/Harvest-Items-Images/Strawberry.png"></td>
+      <td><a id="strawberry"><img src="./Material-Items/Harvest-Items-Images/Strawberry.png"></td>
       <td><div align="center"><a href="./Harvest-Items-Codes/Strawberry.md"> Strawberry </a></div></td>
       <td><b><div align="center"> D </div></b></td>
       <td></td>
    </tr>
    <tr>
-      <td><a id="tomato"><img src="./Raw-Items/Harvest-Items-Images/Tomato.png"></a></td>
+      <td><a id="tomato"><img src="./Material-Items/Harvest-Items-Images/Tomato.png"></a></td>
       <td><div align="center"><a href="./Harvest-Items-Codes/Tomato.md"> Tomato </a></div></td>
       <td><b><div align="center"> E </div></b></td>
       <td></td>
    </tr>
    <tr>
-      <td><a id="wheat"><img src="./Raw-Items/Harvest-Items-Images/Wheat.png"></td>
+      <td><a id="wheat"><img src="./Material-Items/Harvest-Items-Images/Wheat.png"></td>
       <td><div align="center"><a href="./Harvest-Items-Codes/Wheat.md"> Wheat </a></div></td>
       <td><b><div align="center"> F </div></b></td>
       <td></td>
@@ -129,7 +129,7 @@
       <td><b><div align="center"> C </div></b></td>
       <td></td>
       <td><div align="center"> 
-         <a href="./Harvest-Items-Codes/Cauliflower.md"><img src="./Raw-Items/Harvest-Items-Images/Cauliflower.png" width="40" height="40"></a>
+         <a href="./Harvest-Items-Codes/Cauliflower.md"><img src="./Material-Items/Harvest-Items-Images/Cauliflower.png" width="40" height="40"></a>
          Milk, Flour, Butter, Cheese, Salt
       </div></td>
    </tr>
@@ -153,7 +153,7 @@
       <td><b><div align="center"> C </div></b></td>
       <td></td>
       <td><div align="center"> 
-         <a href="./Harvest-Items-Codes/Strawberry.md"><img src="./Raw-Items/Harvest-Items-Images/Strawberry.png" width="40" height="40"></a>
+         <a href="./Harvest-Items-Codes/Strawberry.md"><img src="./Material-Items/Harvest-Items-Images/Strawberry.png" width="40" height="40"></a>
          Cream, Flour, Egg, Sugar 
       </div></td>
    </tr>
@@ -170,7 +170,7 @@
       <td><b><div align="center"> C </div></b></td>
       <td></td>
       <td><div align="center"> 
-         <a href="./Harvest-Items-Codes/Corn.md"><img src="./Raw-Items/Harvest-Items-Images/Corn.png" width="40" height="40"></a>
+         <a href="./Harvest-Items-Codes/Corn.md"><img src="./Material-Items/Harvest-Items-Images/Corn.png" width="40" height="40"></a>
          Any Fish, Chili Pepper, Onion, Olive Oil, Cabbage 
       </div></td>
    </tr>
@@ -257,7 +257,7 @@
       <td><b><div align="center"> C </div></b></td>
       <td></td>
       <td><div align="center"> 
-         <a href="./Harvest-Items-Codes/Tomato.md"><img src="./Raw-Items/Harvest-Items-Images/Tomato.png" width="40" height="40"></a>
+         <a href="./Harvest-Items-Codes/Tomato.md"><img src="./Material-Items/Harvest-Items-Images/Tomato.png" width="40" height="40"></a>
          Bell Pepper, Egg, Lettuce 
       </div></td>
    </tr>
@@ -267,7 +267,7 @@
       <td><b><div align="center"> C </div></b></td>
       <td></td>
       <td><div align="center"> Onion, Garlic, Salmon, 
-         <a href="./Harvest-Items-Codes/Tomato.md"><img src="./Raw-Items/Harvest-Items-Images/Tomato.png" width="40" height="40"></a>
+         <a href="./Harvest-Items-Codes/Tomato.md"><img src="./Material-Items/Harvest-Items-Images/Tomato.png" width="40" height="40"></a>
          /Potato/Carrot, Lemon 
       </div></td>
    </tr>
@@ -277,7 +277,7 @@
       <td><b><div align="center"> C </div></b></td>
       <td></td>
       <td><div align="center"> 
-         <a href="./Harvest-Items-Codes/Tomato.md"><img src="./Raw-Items/Harvest-Items-Images/Tomato.png" width="40" height="40"></a>
+         <a href="./Harvest-Items-Codes/Tomato.md"><img src="./Material-Items/Harvest-Items-Images/Tomato.png" width="40" height="40"></a>
          Pork/Beef, Flour, Egg, Salt 
       </div></td>
    </tr>
@@ -301,7 +301,7 @@
       <td><b><div align="center"> C </div></b></td>
       <td></td>
       <td><div align="center"> Potato, 
-         <a href="./Harvest-Items-Codes/Tomato.md"><img src="./Raw-Items/Harvest-Items-Images/Tomato.png" width="40" height="40"></a>
+         <a href="./Harvest-Items-Codes/Tomato.md"><img src="./Material-Items/Harvest-Items-Images/Tomato.png" width="40" height="40"></a>
          Carrot 
       </div></td>
    </tr>
