@@ -1,6 +1,6 @@
 # Cauliflower 
 
- | [:arrow_right: General Items](../General-Items.md) |
+ | [:arrow_right: General Items](.../General-Items.md) |
  | :-:|
  
 <table border="2">
