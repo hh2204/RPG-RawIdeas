@@ -3,8 +3,8 @@
 <div align="right">
 <table>
   <tr>
-    <td><i><a href="../../General-Items.md/#general-items-list"> :arrow_right: Heneral Items </a></i></td>
-   <td><i><a href="../../General-Items.md/#harvest-items"> :arrow_right: Harvest Items List </a></i></td>
+    <td><b><i><a href="../../General-Items.md/#general-items-list"> :arrow_right: Heneral Items </a></i></b></td>
+   <td><b><i><a href="../../General-Items.md/#harvest-items"> :arrow_right: Harvest Items List </a></i></b></td>
   </tr>
 </table>
 </div>
