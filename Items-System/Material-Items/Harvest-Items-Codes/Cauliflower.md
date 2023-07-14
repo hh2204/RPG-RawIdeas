@@ -1,7 +1,7 @@
 # Cauliflower 
 
- | [:arrow_right: General Items](../../General-Items.md) |
- | :-:|
+ | [:arrow_right: General Items](../../General-Items.md/#general-items-list) | [:arrow_right: Harvest Items List](../../General-Items.md/#harvest-items)
+ | :-: | :-: |
  
 <table border="2">
    <tr>
