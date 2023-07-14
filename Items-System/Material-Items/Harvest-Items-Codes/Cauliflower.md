@@ -1,9 +1,7 @@
 # Cauliflower 
 
- | [:arrow_right: General Items](../General-Items.md) |
+ | [:arrow_right: General Items](.././General-Items.md) |
  | :-:|
-
-<a href=".../General-Items.md"> asdasdasd </a>
  
 <table border="2">
    <tr>
