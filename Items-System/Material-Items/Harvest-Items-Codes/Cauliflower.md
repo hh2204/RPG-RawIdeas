@@ -1,6 +1,6 @@
 # Cauliflower 
 
- | [:arrow_right: General Items](...) |
+ | [:arrow_right: General Items](./././) |
  | :-:|
  
 <table border="2">
