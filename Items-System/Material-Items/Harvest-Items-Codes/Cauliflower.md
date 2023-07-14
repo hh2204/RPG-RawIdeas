@@ -1,7 +1,15 @@
 # Cauliflower 
 
- | [:arrow_right: General Items](../../General-Items.md/#general-items-list) | [:arrow_right: Harvest Items List](../../General-Items.md/#harvest-items)
- | :-: | :-: |
+<div align="right">
+<table>
+  <tr>
+    <td><i><a href="../../General-Items.md/#general-items-list"> :arrow_right: Heneral Items </a></i></td>
+   <td><i><a href="../../General-Items.md/#harvest-items"> :arrow_right: Harvest Items List </a></i></td>
+  </tr>
+</table>
+</div>
+
+---
  
 <table border="2">
    <tr>
