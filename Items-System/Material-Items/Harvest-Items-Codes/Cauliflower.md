@@ -30,19 +30,21 @@
 <table border="2">
    <tr>
       <th width="150px"><i>  EXP  </i></th>
-      <th width="200px" colspan="2"><i>  Value  </i></th>
+      <th width="150px" colspan="3"><i>  Value  </i></th>
       <th width="150px"><i>  Price  </i></th>
    </tr>
 
    <tr>
       <th width="200px">  20 EXP (Farming)  </th>
-      <th width="100px" rowspan="2">  Inedible  </th>
-      <th width="100px" rowspan="2">  Inedible  </th>
-      <th width="150px" rowspan="2">  150  :coin: </th>
+      <th width="100px">  HP  </th>
+      <th width="100px">  MP  </th>
+      <th width="100px">  SP  </th>
+      <th width="150px" rowspan="2">  150 :coin: - 200 :coin: </th>
    </tr>
 
    <tr>
       <th width="150px">  10 EXP (Leveling)  </th>
+      <th colspan="3"> None </th>
    </tr>
 </table>
 
