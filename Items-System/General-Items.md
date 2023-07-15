@@ -102,7 +102,7 @@
 
 ### Looting Items
 
-<div align="right"><table><tr><td><a href="#table-of-contents"> :arrow_up:  </a></td></tr></table></div>
+<div align="right"><table><tr><td><a href="#table-of-contents"><b> :arrow_up: Table Of Contents </b></a></td></tr></table></div>
 
 ---
 
