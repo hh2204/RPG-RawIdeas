@@ -28,7 +28,7 @@
 
 ### Harvest Items
 
-<div align="right"><table><tr><td><a href="#table-of-contents"><b> :arrow_up: Table Of Contents </b></a></td></tr></table></div>
+<div align="right"><table><tr><td><b><a href="#table-of-contents"> :arrow_up: Table Of Contents </a></b></td></tr></table></div>
 
 <div align="left">
 <table border="2">
