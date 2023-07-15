@@ -29,12 +29,14 @@
 
 <table border="2">
    <tr>
+      <th width="50"><i> Unlock </i></th>
       <th width="150px"><i>  EXP  </i></th>
-      <th width="150px" colspan="3"><i>  Value  </i></th>
-      <th width="150px"><i>  Price  </i></th>
+      <th width="150px" colspan="3"><i>  Restoration  </i></th>
+      <th width="150px"><i>  Selling  </i></th>
    </tr>
 
    <tr>
+      <th rowspan="2"> LVL 5  </th>
       <th width="200px">  20 EXP (Farming)  </th>
       <th width="100px">  HP  </th>
       <th width="100px">  MP  </th>
