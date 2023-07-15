@@ -128,7 +128,7 @@
    <tr>
       <td rowspan="2"><a id="apple-pie"><img src="./Crafting-Items/Food-Items-Images/Apple-Pie.png"></a></td>
       <td rowspan="2"><div align="center"><a href="./Food-Items-Codes/Apple-Pie.md"> Apple Pie </a></div></td>
-      <td rowspan="2"><b><div align="center"> C </div></b></td>
+      <td rowspan="2"><b><div align="center"> D </div></b></td>
       <td rowspan="2"><div align="center"> Apple, Flour, Sugar </div></td>
       <td><div align="center">  30 EXP (Leveling)  </div></td>
       <td><b><div align="center">  HP  </div></b></td>
