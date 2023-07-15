@@ -46,7 +46,7 @@
       <td><b><div align="center">  HP  </div></b></td>
       <td><b><div align="center">  MP  </div></b></td>
       <td><b><div align="center">  SP  </div></b></td>
-      <td rowspan="2"><b><div align="center">  150 :coin: <br>- 200 :coin:</br>  </div></td>
+      <td rowspan="2"><b><div align="center">  250 :coin: <br>- 350 :coin:</br>  </div></td>
    </tr>
    <tr>
       <td><div align="center">  20 EXP (Farming)  </div></td>
