@@ -115,11 +115,10 @@
 <div align="left">
 <table border="1">
    <tr>
-      <td><b><i><div align="center">  Image  </div></i></b></td>
-      <td><b><i><div align="center">  Name  </div></i></b></td>
-      <td><b><i><div align="center">  Rank  </div></i></b></td>
-      <td><b><i><div align="center">  Description  </div></i></b></td>
-      <td><b><i><div align="center">  Recipe  </div></i></b></td>
+      <td width="75"><b><i><div align="center">  Image  </div></i></b></td>
+      <td width="150"><b><i><div align="center">  Name  </div></i></b></td>
+      <td width="50"><b><i><div align="center">  Rank  </div></i></b></td>
+      <td width="300"><b><i><div align="center">  Recipe  </div></i></b></td>
    </tr>
 
    
@@ -127,7 +126,6 @@
       <td><a id="apple-pie"><img src="./Crafting-Items/Food-Items-Images/Apple-Pie.png"></a></td>
       <td><div align="center"><a href="./Food-Items-Codes/Apple-Pie.md"> Apple Pie </a></div></td>
       <td><b><div align="center"> C </div></b></td>
-      <td></td>
       <td><div align="center"> Apple, Butter, Flour, Sugar </div></td>
    </tr>
    <tr>
