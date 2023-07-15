@@ -119,7 +119,7 @@
    <!-- Testing -->
    <tr>
       <td rowspan="2"><img src="../Temporary/Unknown-Sprite.png"></td>
-      <td rowspan="2"><div align="center"><a href="./Material-Items/Harvest-Items-Codes/Cauliflower.md"><b> Cauliflower </b></a></div></td>
+      <td rowspan="2"><div align="center"><b> Cauliflower </b></div></td>
       <td rowspan="2"><b><div align="center"><h3> E </h3></div></b></td>
       <td rowspan="2"> "A delicious, nutritious kind of florets that love the cool climate with light sunshine." </td>
       <td><div align="center">  10 EXP (Leveling)  </div></td>
