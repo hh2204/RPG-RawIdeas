@@ -36,8 +36,8 @@
 
    <tr>
       <th width="150px">  20 Farming EXP  </th>
-      <th width="100px" rowspan="2">  + 50 HP  </th>
-      <th width="100px" rowspan="2">  + 30 SP  </th>
+      <th width="100px" rowspan="2">  Inedible  </th>
+      <th width="100px" rowspan="2">  Inedible  </th>
       <th width="150px" rowspan="2">  150  :coin: </th>
    </tr>
 
