@@ -16,7 +16,9 @@
 3. <a href="#weapon-items"> Weapon Items </a>
     * <a href="#melee-weapon-items"> Melee Weapon Items </a>
     * <a href="#ranged-weapon-items"> Ranged Weapon Items </a>
-4. <a href="#charming-items"> Charming Items </a>
+4. <a href="#armory-items"> Armor Items </a>
+    * <a href="#armor-items"> Armor Items </a>
+5. <a href="#charming-items"> Charming Items </a>
     * <a href="#jewelry-items"> Jewelry Items </a>
     * <a href="#treasure-items"> Treasure Items </a>
 
@@ -393,7 +395,7 @@
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
-## Armor Items
+ <a id="armory-items"><h2> Armor Items </h2></a>
 
 ### Armor Items
 
