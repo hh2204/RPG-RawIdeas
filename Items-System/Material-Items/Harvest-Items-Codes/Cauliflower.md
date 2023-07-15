@@ -116,9 +116,9 @@
 
 <table>
    <tr>
-      <th width="100"><i>  Image  </i></th>
-      <th width="200"><i>  Name  </i></th>
-      <th width=""
+      <th width="75"><i>  Image  </i></th>
+      <th width="150"><i>  Name  </i></th>
+      <th width="300"><i>  Recipe  </i></th>
    </tr>
 </table>
 
