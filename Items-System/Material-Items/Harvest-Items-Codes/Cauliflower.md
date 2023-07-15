@@ -20,7 +20,7 @@
    </tr>
    
    <tr>
-      <td width="100px"><div align="center"><a id="cauliflower"><img src="../Harvest-Items-Images/Cauliflower.png" width="60" height="57"></a></div></td>
+      <td width="100px"><div align="center"><a id="cauliflower"><img src="../Harvest-Items-Images/Cauliflower.png" width="60" height="60"></a></div></td>
       <th width="150px"><div align="center"> Cauliflower </div></td>
       <td width="75px"><b><div align="center"> E </div></b></td>
       <td width="700px"> "A delicious, nutritious kind of florets that love the cool climate lands with light sunshine." </td>
@@ -112,6 +112,8 @@
    </tr>
 </table>
 
+<!-- -->
+
 ## Recipes
 
 <table>
@@ -124,6 +126,17 @@
       <td width="150" colspan="3"><b><i><div align="center">   Restoration   </div></i></b></td>
       <td width="100"><b><i><div align="center">  Selling  </div></i></b></td>
    </tr>
+
+  <tr>
+      <td><a id="cheese-cauliflower"><img src="../../Crafting-Items/Food-Items-Images/Cheese-Cauliflower.png"></a></td>
+      <td><div align="center"><a href="./Food-Items-Codes/Cheese-Cauliflower.md"> Cheese Cauliflower </a></div></td>
+      <td><b><div align="center"><h3> C </h3></div></b></td>
+      <td><div align="center"> 
+         <a href="./Material-Items/Harvest-Items-Codes/Cauliflower.md"><img src="../Harvest-Items-Images/Cauliflower.png" width="40" height="40"></a>
+         , Milk, Flour, Butter, Cheese, Salt
+      </div></td>
+   </tr>
+  </tr>
 </table>
 
 ## Quests
