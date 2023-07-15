@@ -118,6 +118,7 @@
    <tr>
       <th width="100"><i>  Image  </i></th>
       <th width="200"><i>  Name  </i></th>
+      <th width=""
    </tr>
 </table>
 
