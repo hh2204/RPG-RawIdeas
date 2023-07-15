@@ -62,7 +62,7 @@
    </tr>
    <tr>
       <td><div align="center"> Map: Colardon Village </div></td>
-      <td> Found in the fields of Colardon farmers, most when the weather is not too cold. </td>
+      <td> Found on the fields of Colardon farmers, most when the weather is not too cold. </td>
       <td><div align="center"> 70% - Sunny Weather <br> 55% - Rainy Weather  </div></td>
    </tr>
 </table>
