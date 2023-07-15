@@ -35,14 +35,14 @@
    </tr>
 
    <tr>
-      <th width="150px">  20 Farming EXP  </th>
+      <th width="200px">  20 EXP (Farming)  </th>
       <th width="100px" rowspan="2">  Inedible  </th>
       <th width="100px" rowspan="2">  Inedible  </th>
       <th width="150px" rowspan="2">  150  :coin: </th>
    </tr>
 
    <tr>
-      <th width="150px">  10 Leveling EXP  </th>
+      <th width="150px">  10 EXP (Leveling)  </th>
    </tr>
 </table>
 
