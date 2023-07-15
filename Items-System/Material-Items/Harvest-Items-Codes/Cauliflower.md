@@ -128,13 +128,23 @@
    </tr>
 
   <tr>
-      <td><a id="cheese-cauliflower"><img src="../../Crafting-Items/Food-Items-Images/Cheese-Cauliflower.png"></a></td>
-      <td><div align="center"><a href="./Food-Items-Codes/Cheese-Cauliflower.md"> Cheese Cauliflower </a></div></td>
-      <td><b><div align="center"><h3> C </h3></div></b></td>
-      <td><div align="center"> 
+      <td rowspan="2"><a id="cheese-cauliflower"><img src="../../Crafting-Items/Food-Items-Images/Cheese-Cauliflower.png"></a></td>
+      <td rowspan="2"><div align="center"><a href="./Food-Items-Codes/Cheese-Cauliflower.md"> Cheese Cauliflower </a></div></td>
+      <td rowspan="2"><b><div align="center"><h3> C </h3></div></b></td>
+      <td rowspan="2"><div align="center"> 
          <a href="./Material-Items/Harvest-Items-Codes/Cauliflower.md"><img src="../Harvest-Items-Images/Cauliflower.png" width="40" height="40"></a>
          , Milk, Flour, Butter, Cheese, Salt
-      </div></td>
+      <td><div align="center"> 50 EXP (Leveling) </div></td>
+      <td><div align="center"> HP </div></td>
+      <td><div align="center"> MP </div></td>
+      <td><div align="center"> SP </div></td>
+      <td rowspan="2"><div align="center"> 750 :coin: <br>- 900 :coin:</br> </div></td>
+   </tr>
+   <tr>
+      <td><div align="center">  70 EXP (Cooking)  </div></td>
+      <td><div align="center">  30  </div></td>
+      <td><div align="center">  None  </div></td>
+      <td><div align="center">  10  </div></td>
    </tr>
   </tr>
 </table>
