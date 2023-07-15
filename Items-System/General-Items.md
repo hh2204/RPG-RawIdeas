@@ -22,9 +22,13 @@
     * <a href="#jewelry-items"> Jewelry Items </a>
     * <a href="#treasure-items"> Treasure Items </a>
 
+---
+
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 ## Material Items 
+
+<!-- --------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 ### Harvest Items
 
@@ -58,7 +62,9 @@
       <td><div align="center">  20 EXP (Farming)  </div></td>
       <td colspan="3"><div align="center">  None  </div></td>
    </tr>
-
+</table>
+</div>
+<!--
    <tr>
       <td><a id="corn"><img src="./Material-Items/Harvest-Items-Images/Corn.png"></td>
       <td><div align="center"><a href="./Material-Items/Harvest-Items-Codes/Corn.md"> Corn </a></div></td>
@@ -97,8 +103,11 @@
    </tr>
 </table>
 </div>
+-->
 
 ---
+
+<!-- --------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 ### Looting Items
 
@@ -112,37 +121,69 @@
       <td width="50"><b><i><div align="center">  Rank  </div></i></b></td>
       <td width="300"><b><i><div align="center">  Description  </div></i></b></td>
       <td width="200"><b><i><div align="center">  EXP  </div></i></b></td>
-      <td width="150" colspan="3"><b><i><div align="center">   Restoration   </div></i></b></td>
+      <td width="150"><b><i><div align="center">   Main Source   </div></i></b></td>
       <td width="100"><b><i><div align="center">  Selling  </div></i></b></td>
    </tr>
 
    <!-- Testing -->
    <tr>
-      <td rowspan="2"><img src="../Temporary/Unknown-Sprite.png"></td>
-      <td rowspan="2"><div align="center"><b> Cauliflower </b></div></td>
-      <td rowspan="2"><b><div align="center"><h3> E </h3></div></b></td>
-      <td rowspan="2"> "A delicious, nutritious kind of florets that love the cool climate with light sunshine." </td>
+      <td rowspan="2"><img src="../Temporary-Files/Unknown.png"></td>
+      <td rowspan="2"><div align="center"><b> Unknown </b></div></td>
+      <td rowspan="2"><b><div align="center"><h3> ? </h3></div></b></td>
+      <td rowspan="2"> "...." </td>
       <td><div align="center">  10 EXP (Leveling)  </div></td>
-      <td><b><div align="center">  HP  </div></b></td>
-      <td><b><div align="center">  MP  </div></b></td>
-      <td><b><div align="center">  SP  </div></b></td>
-      <td rowspan="2"><b><div align="center">  150 :coin: <br>- 200 :coin:</br>  </div></td>
+      <td rowspan="2"><b><div align="center">  ... Mobs  </div></b></td>
+      <td rowspan="2"><b><div align="center">  ... :coin: <br>- ... :coin:</br>  </div></td>
    </tr>
    <tr>
-      <td><div align="center">  20 EXP (Farming)  </div></td>
-      <td colspan="3"><div align="center">  None  </div></td>
+      <td><div align="center">  20 EXP (Looting)  </div></td>
    </tr>
 </table>
 </div>
+         
 ---
+
+<!-- --------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 ### Exploiting Items
 
 <div align="right"><table><tr><td><b><a href="#table-of-contents"> :arrow_up: Table Of Contents </a></b></td></tr></table></div>
 
+<div align="left">
+<table border="2">
+   <tr>
+      <td width="75"><b><i><div align="center">  Image  </div></i></b></td>
+      <td width="150"><b><i><div align="center">  Name  </div></i></b></td>
+      <td width="50"><b><i><div align="center">  Rank  </div></i></b></td>
+      <td width="300"><b><i><div align="center">  Description  </div></i></b></td>
+      <td width="200"><b><i><div align="center">  EXP  </div></i></b></td>
+      <td width="150"><b><i><div align="center">   Main Source   </div></i></b></td>
+      <td width="100"><b><i><div align="center">  Selling  </div></i></b></td>
+   </tr>
+
+   <!-- Testing -->
+   <tr>
+      <td rowspan="2"><img src="../Temporary-Files/Unknown.png"></td>
+      <td rowspan="2"><div align="center"><b> Unknown </b></div></td>
+      <td rowspan="2"><b><div align="center"><h3> ? </h3></div></b></td>
+      <td rowspan="2"> "...." </td>
+      <td><div align="center">  10 EXP (Leveling)  </div></td>
+      <td rowspan="2"><b><div align="center">  ... Ores  </div></b></td>
+      <td rowspan="2"><b><div align="center">  ... :coin: <br>- ... :coin:</br>  </div></td>
+   </tr>
+   <tr>
+      <td><div align="center">  20 EXP (Exploiting)  </div></td>
+   </tr>
+</table>
+</div>
+
+---
+
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 ## Crafting Items
+
+<!-- --------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 ### Food Items
 
@@ -178,7 +219,9 @@
       <td><div align="center">  None  </div></td>
       <td><div align="center">  10  </div></td>
    </tr>
-
+</table>
+</div>
+<!--
    <tr>
       <td><a id="baked-carp"><img src="./Crafting-Items/Food-Items-Images/Baked-Carp.png"></td>
       <td><strike><div align="center"><a href="./Food-Items-Codes/Baked-Carp.md"> Baked Carp </a></div></strike></td>
@@ -362,7 +405,6 @@
          Carrot 
       </div></td>
    </tr>
-   
    <tr>
       <td><a id=""><img src="../Items-Images/Food-Items/.png"></a></td>
       <td><div align="center"><a href="./Food-Items-Codes/.md">  </a></div></td>
@@ -371,14 +413,19 @@
    </tr>
 </table>
 </div>
+-->
 
 ---
+
+<!-- --------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 ### Crafting Items
 
 <div align="right"><table><tr><td><b><a href="#table-of-contents"> :arrow_up: Table Of Contents </a></b></td></tr></table></div>
 
 ---
+
+<!-- --------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 ### Potion Items
 
@@ -387,6 +434,8 @@
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 ## Weapon Items
+
+<!-- --------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 ### Melee Weapon Items
 
@@ -419,27 +468,39 @@
          
 ---
 
+<!-- --------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+
 ### Ranged Weapon Items
 
 <div align="right"><table><tr><td><b><a href="#table-of-contents"> :arrow_up: Table Of Contents </a></b></td></tr></table></div>
 
+---
+
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
- <a id="armory-items"><h2> Armor Items </h2></a>
+<a id="armory-items"><h2> Armor Items </h2></a>
+
+<!-- --------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 ### Armor Items
 
 <div align="right"><table><tr><td><b><a href="#table-of-contents"> :arrow_up: Table Of Contents </a></b></td></tr></table></div>
 
+---
+
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 ## Charming Items
+
+<!-- --------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 ### Jewelry Items
 
 <div align="right"><table><tr><td><b><a href="#table-of-contents"> :arrow_up: Table Of Contents </a></b></td></tr></table></div>
 
 ---
+
+<!-- --------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 ### Treasure Items
 
