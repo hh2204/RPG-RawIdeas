@@ -2,6 +2,8 @@
 
 ## Introductions
 
+<!-- --------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+
 ## Table Of Contents
 1. <a href="#material-items"> Material Items </a>
     * <a href="#harvest-items"> Harvest Items </a>
@@ -18,11 +20,13 @@
     * <a href="#jewelry-items"> Jewelry Items </a>
     * <a href="#treasure-items"> Treasure Items </a>
 
-# Material Items 
+<!-- --------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+
+## Material Items 
 
 ### Harvest Items
 
-<div align="right"><table><tr><td><a href="#table-of-contents"> :arrow_up: Table Of Contents </a></td></tr></table></div>
+<div align="right"><table><tr><td><a href="#table-of-contents"><b> :arrow_up: Table Of Contents </b></a></td></tr></table></div>
 
 <div align="left">
 <table border="2">
@@ -96,21 +100,21 @@
 
 ### Looting Items
 
-<div align="right"><table><tr><td><a href="#table-of-contents"> :arrow_up: Table Of Contents </a></td></tr></table></div>
+<div align="right"><table><tr><td><a href="#table-of-contents"> :arrow_up:  </a></td></tr></table></div>
 
 ---
 
 ### Exploiting Items
 
-<div align="right"><table><tr><td><a href="#table-of-contents"> :arrow_up: Table Of Contents </a></td></tr></table></div>
+<div align="right"><table><tr><td><a href="#table-of-contents"><b> :arrow_up: Table Of Contents </b></a></td></tr></table></div>
 
----
+<!-- --------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 ## Crafting Items
 
 ### Food Items
 
-<div align="right"><table><tr><td><a href="#table-of-contents"> :arrow_up: Table Of Contents </a></td></tr></table></div>
+<div align="right"><table><tr><td><a href="#table-of-contents"><b> :arrow_up: Table Of Contents </b></a></td></tr></table></div>
 
 <div align="left">
 <table border="1">
@@ -340,21 +344,21 @@
 
 ### Crafting Items
 
-<div align="right"><table><tr><td><a href="#table-of-contents"> :arrow_up: Table Of Contents </a></td></tr></table></div>
+<div align="right"><table><tr><td><a href="#table-of-contents"><b> :arrow_up: Table Of Contents </b></a></td></tr></table></div>
 
 ---
 
 ### Potion Items
 
-<div align="right"><table><tr><td><a href="#table-of-contents"> :arrow_up: Table Of Contents </a></td></tr></table></div>
+<div align="right"><table><tr><td><a href="#table-of-contents"><b> :arrow_up: Table Of Contents </b></a></td></tr></table></div>
 
----
+<!-- --------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 ## Weapon Items
 
 ### Melee Weapon Items
 
-<div align="right"><table><tr><td><a href="#table-of-contents"> :arrow_up: Table Of Contents </a></td></tr></table></div>
+<div align="right"><table><tr><td><a href="#table-of-contents"><b> :arrow_up: Table Of Contents </b></a></td></tr></table></div>
 
 <div align="left">
 <table border="1">
@@ -385,28 +389,28 @@
 
 ### Ranged Weapon Items
 
-<div align="right"><table><tr><td><a href="#table-of-contents"> :arrow_up: Table Of Contents </a></td></tr></table></div>
+<div align="right"><table><tr><td><a href="#table-of-contents"><b> :arrow_up: Table Of Contents </b></a></td></tr></table></div>
 
----
+<!-- --------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 ## Armor Items
 
 ### Armor Items
 
-<div align="right"><table><tr><td><a href="#table-of-contents"> :arrow_up: Table Of Contents </a></td></tr></table></div>
+<div align="right"><table><tr><td><a href="#table-of-contents"><b> :arrow_up: Table Of Contents </b></a></td></tr></table></div>
 
----
+<!-- --------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 ## Charming Items
 
 ### Jewelry Items
 
-<div align="right"><table><tr><td><a href="#table-of-contents"> :arrow_up: Table Of Contents </a></td></tr></table></div>
+<div align="right"><table><tr><td><a href="#table-of-contents"><b> :arrow_up: Table Of Contents </b></a></td></tr></table></div>
 
 ---
 
 ### Treasure Items
 
-<div align="right"><table><tr><td><a href="#table-of-contents"> :arrow_up: Table Of Contents </a></td></tr></table></div>
+<div align="right"><table><tr><td><a href="#table-of-contents"><b> :arrow_up: Table Of Contents </b></a></td></tr></table></div>
 
 ---
