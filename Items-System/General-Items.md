@@ -500,10 +500,13 @@
 <div align="left">
 <table border="1">
    <tr>
-      <td><b><i><div align="center">  Image  </div></i></b></td>
-      <td><b><i><div align="center">  Name  </div></i></b></td>
-      <td><b><i><div align="center">  Rank  </div></i></b></td>
-      <td><b><i><div align="center">  Description  </div></i></b></td>
+      <td width="75"><b><i><div align="center">  Image  </div></i></b></td>
+      <td width="150"><b><i><div align="center">  Name  </div></i></b></td>
+      <td width="50"><b><i><div align="center">  Rank  </div></i></b></td>
+      <td width="300"><b><i><div align="center">  Description  </div></i></b></td>
+      <td width="150"><b><i><div align="center">  Base ATK  </div></i></b></td>
+      <td width="200"><b><i><div align="center">  Buffer  </div></i></b></td>
+      <td width="100"><b><i><div align="center">  Selling  </div></i></b></td>
    </tr>
 
    
@@ -512,12 +515,18 @@
       <td><div align="center"><a href="./Weapon-Items/Melee-Weapon-Codes/Short-Sword/Lunarium-Sword.md"> Lunarium Sword </a></div></td>
       <td><b><div align="center"> C </div></b></td>
       <td></td>
+      <td><div align="center"> 1,200 </div></td>
+      <td><div align="center"> None </div></td>
+      <td><div align="center"> 2,500 </div></td>
    </tr>
    <tr>
       <td><a id="magtannium-sword"><img src="./Weapon-Items/Melee-Weapon-Images/Short-Sword/Magtanium-Sword.png" width="50" height="50"></a></td>
       <td><div align="center"><a href="./Weapon-Items/Melee-Weapon-Codes/Short-Sword/Lunarium-Sword.md"> Magtanium Sword </a></div></td>
       <td><b><div align="center"> B </div></b></td>
       <td></td>
+      <td><div align="center"> 3,500 </div></td>
+      <td><div align="center"> None </div></td>
+      <td><div align="center"> Can't sell </div></td>
    </tr>
 </table>
 </div>
