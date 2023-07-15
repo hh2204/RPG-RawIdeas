@@ -116,9 +116,13 @@
 
 <table>
    <tr>
-      <th width="75"><i>  Image  </i></th>
-      <th width="150"><i>  Name  </i></th>
-      <th width="300"><i>  Recipe  </i></th>
+      <td width="75"><b><i><div align="center">  Image  </div></i></b></td>
+      <td width="150"><b><i><div align="center">  Name  </div></i></b></td>
+      <td width="50"><b><i><div align="center">  Rank  </div></i></b></td>
+      <td width="300"><b><i><div align="center">  Recipe  </div></i></b></td>
+      <td width="200"><b><i><div align="center">  EXP  </div></i></b></td>
+      <td width="150" colspan="3"><b><i><div align="center">   Restoration   </div></i></b></td>
+      <td width="100"><b><i><div align="center">  Selling  </div></i></b></td>
    </tr>
 </table>
 
