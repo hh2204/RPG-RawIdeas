@@ -30,24 +30,31 @@
       <td width="75"><b><i><div align="center">  Image  </div></i></b></td>
       <td width="150"><b><i><div align="center">  Name  </div></i></b></td>
       <td width="50"><b><i><div align="center">  Rank  </div></i></b></td>
-      <td><b><i><div align="center">  Description  </div></i></b></td>
-      <td width="150"><b><i><div align="center">  EXP  </div></i></b></td>
+      <td width="300"><b><i><div align="center">  Description  </div></i></b></td>
+      <td width="200"><b><i><div align="center">  EXP  </div></i></b></td>
       <td width="150" colspan="3"><b><i><div align="center">   Restoration   </div></i></b></td>
       <td width="100"><b><i><div align="center">  Selling  </div></i></b></td>
    </tr>
 
-   
+   <!-- Cauliflower -->
    <tr>
-      <td><a id="cauliflower"><img src="./Material-Items/Harvest-Items-Images/Cauliflower.png"></a></td>
-      <td><div align="center"><a href="./Material-Items/Harvest-Items-Codes/Cauliflower.md"> Cauliflower </a></div></td>
-      <td><b><div align="center"> E </div></b></td>
-      <td> "A delicious, nutritious kind of florets that love the cool climate lands with light sunshine." </td>
-      <td><div align="center">    </div></td>
-      <td><div align="center">  None  </div></td>
-      <td><div align="center">  None  </div></td>
-      <td><div align="center">  None  </div></td>
-      <td><div align="center">  150 :coin:  </div></td>
+      <td rowspan="2"><a id="cauliflower"><img src="./Material-Items/Harvest-Items-Images/Cauliflower.png"></a></td>
+      <td rowspan="2"><div align="center"><a href="./Material-Items/Harvest-Items-Codes/Cauliflower.md"> Cauliflower </a></div></td>
+      <td rowspan="2"><b><div align="center"> E </div></b></td>
+      <td rowspan="2"> "A delicious, nutritious kind of florets that love the cool climate lands with light sunshine." </td>
+      <td><div align="center">  10 EXP (Leveling)  </div></td>
+      <td><b><div align="center">  HP  </div></b></td>
+      <td><b><div align="center">  MP  </div></b></td>
+      <td><b><div align="center">  SP  </div></b></td>
+      <td rowspan="2"><b><div align="center">  150 :coin: <br>- 200 :coin:</br>  </div></td>
    </tr>
+   <tr>
+      <td><div align="center">  20 EXP (Farming)  </div></td>
+      <td><div align="center">  None  </div></td>
+      <td><div align="center">  None  </div></td>
+      <td><div align="center">  None  </div></td>
+   </tr>
+
    <tr>
       <td><a id="corn"><img src="./Material-Items/Harvest-Items-Images/Corn.png"></td>
       <td><div align="center"><a href="./Material-Items/Harvest-Items-Codes/Corn.md"> Corn </a></div></td>
