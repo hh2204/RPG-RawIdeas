@@ -162,7 +162,7 @@
       <td><b><div align="center"> C </div></b></td>
       <td></td>
       <td><div align="center"> 
-         <a href="./Harvest-Items-Codes/Cauliflower.md"><img src="./Material-Items/Harvest-Items-Images/Cauliflower.png" width="40" height="40"></a>
+         <a href="./Material-Items/Harvest-Items-Codes/Cauliflower.md"><img src="./Material-Items/Harvest-Items-Images/Cauliflower.png" width="40" height="40"></a>
          Milk, Flour, Butter, Cheese, Salt
       </div></td>
    </tr>
