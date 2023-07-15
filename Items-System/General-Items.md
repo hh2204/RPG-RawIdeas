@@ -513,7 +513,7 @@
    <tr>
       <td><a id="lunarium-sword"><img src="./Weapon-Items/Melee-Weapon-Images/Short-Sword/Lunarium-Sword.png" width="50" height="50"></a></td>
       <td><div align="center"><a href="./Weapon-Items/Melee-Weapon-Codes/Short-Sword/Lunarium-Sword.md"> Lunarium Sword </a></div></td>
-      <td><b><div align="center"> C </div></b></td>
+      <td><b><div align="center"><h3> C </h3></div></b></td>
       <td></td>
       <td><div align="center"> 1,200 </div></td>
       <td><div align="center"> None </div></td>
@@ -522,7 +522,7 @@
    <tr>
       <td><a id="magtannium-sword"><img src="./Weapon-Items/Melee-Weapon-Images/Short-Sword/Magtanium-Sword.png" width="50" height="50"></a></td>
       <td><div align="center"><a href="./Weapon-Items/Melee-Weapon-Codes/Short-Sword/Lunarium-Sword.md"> Magtanium Sword </a></div></td>
-      <td><b><div align="center"> B </div></b></td>
+      <td><b><div align="center"><h3> B </h3></div></b></td>
       <td></td>
       <td><div align="center"> 3,500 </div></td>
       <td><div align="center"> None </div></td>
