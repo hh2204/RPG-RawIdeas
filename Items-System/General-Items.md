@@ -119,15 +119,30 @@
       <td width="150"><b><i><div align="center">  Name  </div></i></b></td>
       <td width="50"><b><i><div align="center">  Rank  </div></i></b></td>
       <td width="300"><b><i><div align="center">  Recipe  </div></i></b></td>
+      <td width="200"><b><i><div align="center">  EXP  </div></i></b></td>
+      <td width="150" colspan="3"><b><i><div align="center">   Restoration   </div></i></b></td>
+      <td width="100"><b><i><div align="center">  Selling  </div></i></b></td>
    </tr>
 
    
    <tr>
-      <td><a id="apple-pie"><img src="./Crafting-Items/Food-Items-Images/Apple-Pie.png"></a></td>
-      <td><div align="center"><a href="./Food-Items-Codes/Apple-Pie.md"> Apple Pie </a></div></td>
-      <td><b><div align="center"> C </div></b></td>
-      <td><div align="center"> Apple, Butter, Flour, Sugar </div></td>
+      <td rowspan="2"><a id="apple-pie"><img src="./Crafting-Items/Food-Items-Images/Apple-Pie.png"></a></td>
+      <td rowspan="2"><div align="center"><a href="./Food-Items-Codes/Apple-Pie.md"> Apple Pie </a></div></td>
+      <td rowspan="2"><b><div align="center"> C </div></b></td>
+      <td rowspan="2"><div align="center"> Apple, Flour, Sugar </div></td>
+      <td><div align="center">  30 EXP (Leveling)  </div></td>
+      <td><b><div align="center">  HP  </div></b></td>
+      <td><b><div align="center">  MP  </div></b></td>
+      <td><b><div align="center">  SP  </div></b></td>
+      <td rowspan="2"><b><div align="center">  150 :coin: <br>- 200 :coin:</br>  </div></td>
    </tr>
+   <tr>
+      <td><div align="center">  20 EXP (Cooking)  </div></td>
+      <td><div align="center">  30  </div></td>
+      <td><div align="center">  None  </div></td>
+      <td><div align="center">  10  </div></td>
+   </tr>
+
    <tr>
       <td><a id="baked-carp"><img src="./Crafting-Items/Food-Items-Images/Baked-Carp.png"></td>
       <td><strike><div align="center"><a href="./Food-Items-Codes/Baked-Carp.md"> Baked Carp </a></div></strike></td>
