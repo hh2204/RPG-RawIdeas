@@ -52,10 +52,10 @@
 <br> </br>
 <table border="2">
   <tr>
-    <th width="256.25"><i><a href="#sources">  :arrow_right: Sources  </a></i></th>
-    <th width="256.25"><i><a href="#recipes">  :arrow_right: Recipes  </a></i></th>
-    <th width="256.25"><i><a href="#quests">  :arrow_right: Quests  </a></i></th>
-    <th width="256.25"><i><a href="#achievements">  :arrow_right: Achievements  </a></i></th>
+    <th width="256.25"><i><a href="#sources">  :arrow_down: Sources  </a></i></th>
+    <th width="256.25"><i><a href="#recipes">  :arrow_down: Recipes  </a></i></th>
+    <th width="256.25"><i><a href="#quests">  :arrow_down: Quests  </a></i></th>
+    <th width="256.25"><i><a href="#achievements">  :arrow_down: Achievements  </a></i></th>
   </tr>
 </table>
 
