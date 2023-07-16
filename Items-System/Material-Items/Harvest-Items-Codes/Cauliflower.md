@@ -44,7 +44,7 @@
 <table border="2">
    <tr>
       <th width="150"><i>  Description  </i></th> 
-      <td width="875"> "A delicious, nutritious kind of florets that love the cool climate lands with light sunshine." </td>
+      <td width="875"><i> "A delicious, nutritious kind of florets that love the cool climate lands with light sunshine." </i></td>
    </tr>
 </table>
 
