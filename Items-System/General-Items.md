@@ -1,5 +1,7 @@
 <div align="center"><h1><b><a id="general-items-list">  General Items List  </a></b></h1></div>
 
+<div align="right"><table><tr><th><a href="../General-Raw-Ideas-List.md">  :arrow_right: Return to General Raw Ideas  </a></th></tr></table></div>
+
 ## Introductions
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
