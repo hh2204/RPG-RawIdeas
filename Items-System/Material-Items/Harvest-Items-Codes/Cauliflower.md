@@ -31,7 +31,7 @@
       <th width="100px">  HP  </th>
       <th width="100px">  MP  </th>
       <th width="100px">  SP  </th>
-      <td rowspan="2">  150 :coin: - 200 :coin: </th>
+      <td rowspan="2"><div align="center">  150 :coin: - 200 :coin: </div></th>
    </tr>
    <tr>
      <td><div align="center"> 10 EXP (Farming) </div></td>
