@@ -10,7 +10,7 @@
 
 ## Maps System
 
-<div align="right"><table><tr><th><a href="./Maps-System/Encyclopedia-Of-Maps.md">  :arrow_right: Go to Encyclopedia of Maps   </a></th></tr></table></div>
+<div align="right"><table><tr><th><a href="./Maps-System/Encyclopedia-Of-Maps.md">  :arrow_right: Go to Encyclopedia of Maps  </a></th></tr></table></div>
 
 ## Tower System
 
