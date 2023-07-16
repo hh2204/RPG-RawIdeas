@@ -16,38 +16,45 @@
       <th width="100px"><i>  Image  </i></td>
       <th width="150px"><i>  Name  </i></td>
       <th width="75px"><i>  Rank  </i></td>
-      <th width="700px"><i>  Description  </i></td>
+      <th width="75px"><i> Unlock </i></th>
+      <th width="150px"><i>  EXP  </i></th>
+      <th width="300px" colspan="3"><i>  Restoration  </i></th>
+      <th width="175px"><i>  Selling  </i></th>
    </tr>
    
    <tr>
-      <td width="100px"><div align="center"><a id="cauliflower"><img src="../Harvest-Items-Images/Cauliflower.png" width="60" height="60"></a></div></td>
-      <th width="150px"><div align="center"> Cauliflower </div></td>
-      <td width="75px"><b><div align="center"> E </div></b></td>
-      <td width="700px"> "A delicious, nutritious kind of florets that love the cool climate lands with light sunshine." </td>
+      <td rowspan="2"><div align="center"><a id="cauliflower"><img src="../Harvest-Items-Images/Cauliflower.png" width="60" height="60"></a></div></td>
+      <th rowspan="2"><div align="center"> Cauliflower </div></td>
+      <td rowspan="2"><b><div align="center"> E </div></b></td>
+      <td rowspan="2"> LVL 5  </th>
+      <td><div align="center">  20 EXP (Farming)  </div></th>
+      <th width="100px">  HP  </th>
+      <th width="100px">  MP  </th>
+      <th width="100px">  SP  </th>
+      <td rowspan="2">  150 :coin: - 200 :coin: </th>
+   </tr>
+   <tr>
+     <td><div align="center"> 10 EXP (Farming) </div></td>
+     <td><div align="center"> 30 </div></td>
+     <td><div align="center"> None </div></td>
+     <td><div align="center"> 10 </div></td>
    </tr>
 </table>
 
 <table border="2">
    <tr>
-      <th width="50"><i> Unlock </i></th>
-      <th width="150px"><i>  EXP  </i></th>
-      <th width="150px" colspan="3"><i>  Restoration  </i></th>
-      <th width="150px"><i>  Selling  </i></th>
+      <th width="150"><i>  Description  </i></th> 
+      <td width="875"> "A delicious, nutritious kind of florets that love the cool climate lands with light sunshine." </td>
    </tr>
+</table>
 
-   <tr>
-      <th rowspan="2"> LVL 5  </th>
-      <th width="200px">  20 EXP (Farming)  </th>
-      <th width="100px">  HP  </th>
-      <th width="100px">  MP  </th>
-      <th width="100px">  SP  </th>
-      <th width="150px" rowspan="2">  150 :coin: - 200 :coin: </th>
-   </tr>
-
-   <tr>
-      <th width="150px">  10 EXP (Leveling)  </th>
-      <th colspan="3"> None </th>
-   </tr>
+<table border="2">
+  <tr>
+    <th width="256.25"><i><a href="#sources">  :arrow_right: Sources  </a></i></th>
+    <th width="256.25"><i><a href="#recipes">  :arrow_right: Recipes  </a></i></th>
+    <th width="256.25"><i><a href="#quests">  :arrow_right: Quests  </a></i></th>
+    <th width="256.25"><i><a href="#achievements">  :arrow_right: Achievements  </a></i></th>
+  </tr>
 </table>
 
 ## Sources
