@@ -35,9 +35,7 @@
    </tr>
    <tr>
      <td><div align="center"> 10 EXP (Farming) </div></td>
-     <td><div align="center"> 30 </div></td>
-     <td><div align="center"> None </div></td>
-     <td><div align="center"> 10 </div></td>
+     <td colspan="3"><div align="center"> None </div></td>
    </tr>
 </table>
 
