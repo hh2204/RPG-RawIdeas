@@ -62,7 +62,7 @@
    </tr>
    <tr>
       <td><div align="center">  20 EXP (Farming)  </div></td>
-      <td colspan="3"><div align="center">  None  </div></td>
+      <td colspan="3"><div align="center">  -  </div></td>
    </tr>
    <!-- Corn -->
    <tr>
@@ -78,7 +78,7 @@
    </tr>
    <tr>
       <td><div align="center">  7 EXP (Farming)  </div></td>
-      <td colspan="3"><div align="center">  None  </div></td>
+      <td colspan="3"><div align="center">  -  </div></td>
    </tr>
    <!-- Ice Exbloom --> 
    <tr>
@@ -86,15 +86,15 @@
       <td rowspan="2"><div align="center"><a href="./Material-Items/Harvest-Items-Codes/Ice-Exbloom.md"> Ice Exbloom </a></div></td>
       <td rowspan="2"><b><div align="center"><h3> C </h3></div></b></td>
       <td rowspan="2"> "..." </td>
-      <td><div align="center">  30 EXP (Leveling)  </div></td>
+      <td><div align="center">  25 EXP (Leveling)  </div></td>
       <td><b><div align="center">  HP  </div></b></td>
       <td><b><div align="center">  MP  </div></b></td>
       <td><b><div align="center">  SP  </div></b></td>
       <td rowspan="2"><b><div align="center">  340 :coin: <br>- 440 :coin:</br>  </div></td>
    </tr> 
    <tr>
-      <td><div align="center">  25 EXP (Farming)  </div></td>
-      <td colspan="3"><div align="center">  None  </div></td>
+      <td><div align="center">  30 EXP (Farming)  </div></td>
+      <td colspan="3"><div align="center">  -  </div></td>
    </tr>
    <!-- Radish -->
    <tr>
@@ -102,16 +102,16 @@
       <td rowspan="2"><div align="center"><a href="./Material-Items/Harvest-Items-Codes/Radish.md"> Radish </a></div></td>
       <td rowspan="2"><b><div align="center"><h3> E </h3></div></b></td>
       <td rowspan="2"> "..." </td>
-      <td><div align="center">  7 EXP (Leveling)  </div></td>
+      <td><div align="center">  5 EXP (Leveling)  </div></td>
       <td><b><div align="center">  HP  </div></b></td>
       <td><b><div align="center">  MP  </div></b></td>
       <td><b><div align="center">  SP  </div></b></td>
       <td rowspan="2"><b><div align="center">  100 :coin: <br>- 150 :coin:</br>  </div></td>
    </tr> 
    <tr>
-      <td><div align="center">  5 EXP (Farming)  </div></td>
+      <td><div align="center">  7 EXP (Farming)  </div></td>
       <td><div align="center">  2%  </div></td>
-      <td><div align="center">  None  </div></td>
+      <td><div align="center">  -  </div></td>
       <td><div align="center">  1%  </div></td>
    </tr>
          
