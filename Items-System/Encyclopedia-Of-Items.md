@@ -68,7 +68,7 @@
    <tr>
       <td rowspan="2"><a id="corn"><img src="./Material-Items/Harvest-Items-Images/Corn.png"></a></td>
       <th rowspan="2"><div align="center"><a href="./Material-Items/Harvest-Items-Codes/Corn.md"> Corn </a></div></td>
-      <th rowspan="2"><div align="center"><h3> E </h3></div></td>
+      <th rowspan="2"><div align="center"><h3> F </h3></div></td>
       <td rowspan="2"> "..." </td>
       <td><div align="center">  5 EXP (Leveling)  </div></td>
       <td><b><div align="center">  HP  </div></b></td>
