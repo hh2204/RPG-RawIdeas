@@ -32,7 +32,7 @@
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
-### Harvest Items
+### Harvest Items 
 
 <div align="right"><table><tr><td><b><a href="#table-of-contents"> :arrow_up: Table Of Contents </a></b></td></tr></table></div>
 
