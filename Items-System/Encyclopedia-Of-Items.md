@@ -622,8 +622,8 @@
    </tr> 
    <tr>
       <td><div align="center">  15 EXP (Farming)  </div></td>
-      <td><div align="center">  2%  </div></td>
       <td><div align="center">  1%  </div></td>
+      <td><div align="center">  -  </div></td>
       <td><div align="center">  1%  </div></td>
    </tr>
          
