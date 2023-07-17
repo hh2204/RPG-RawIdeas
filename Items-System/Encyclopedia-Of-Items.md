@@ -82,8 +82,8 @@
    </tr>
    <!-- Ice Exbloom --> 
    <tr>
-      <td rowspan="2"><a id="ice-exbloom"><img src="./Material-Items/Harvest-Items-Images/Globe-Thistle.png"></a></td>
-      <td rowspan="2"><div align="center"><a href="./Material-Items/Harvest-Items-Codes/Ice-Exbloom.md"> Ice Exbloom </a></div></td>
+      <td rowspan="2"><a id="ice-exbloom"><img src="./Material-Items/Harvest-Items-Images/Ice-Exbloom.png"></a></td>
+      <th rowspan="2"><div align="center"><a href="./Material-Items/Harvest-Items-Codes/Ice-Exbloom.md"> Ice Exbloom </a></div></td>
       <td rowspan="2"><b><div align="center"><h3> C </h3></div></b></td>
       <td rowspan="2"> "..." </td>
       <td><div align="center">  25 EXP (Leveling)  </div></td>
@@ -99,7 +99,7 @@
    <!-- Radish -->
    <tr>
       <td rowspan="2"><a id="radish"><img src="./Material-Items/Harvest-Items-Images/Radish.png"></a></td>
-      <td rowspan="2"><div align="center"><a href="./Material-Items/Harvest-Items-Codes/Radish.md"> Radish </a></div></td>
+      <th rowspan="2"><div align="center"><a href="./Material-Items/Harvest-Items-Codes/Radish.md"> Radish </a></div></td>
       <td rowspan="2"><b><div align="center"><h3> E </h3></div></b></td>
       <td rowspan="2"> "..." </td>
       <td><div align="center">  7 EXP (Leveling)  </div></td>
@@ -135,7 +135,7 @@
    <!-- Tomato -->
    <tr>
       <td rowspan="2"><a id="tomato"><img src="./Material-Items/Harvest-Items-Images/Tomato.png"></a></td>
-      <td rowspan="2"><div align="center"><a href="./Material-Items/Harvest-Items-Codes/Tomato.md"> Tomato </a></div></td>
+      <th rowspan="2"><div align="center"><a href="./Material-Items/Harvest-Items-Codes/Tomato.md"> Tomato </a></div></td>
       <td rowspan="2"><b><div align="center"><h3> E </h3></div></b></td>
       <td rowspan="2"> "..." </td>
       <td><div align="center">  10 EXP (Leveling)  </div></td>
@@ -153,7 +153,7 @@
    <!-- Wheat -->  
    <tr>
       <td rowspan="2"><a id="wheat"><img src="./Material-Items/Harvest-Items-Images/Wheat.png"></a></td>
-      <td rowspan="2"><div align="center"><a href="./Material-Items/Harvest-Items-Codes/Wheat.md"> Wheat </a></div></td>
+      <th rowspan="2"><div align="center"><a href="./Material-Items/Harvest-Items-Codes/Wheat.md"> Wheat </a></div></td>
       <td rowspan="2"><b><div align="center"><h3> F </h3></div></b></td>
       <td rowspan="2"> "..." </td>
       <td><div align="center">  3 EXP (Leveling)  </div></td>
