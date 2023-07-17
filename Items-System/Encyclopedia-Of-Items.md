@@ -569,6 +569,26 @@
       <td><div align="center">  2%  </div></td>
    </tr>
 
+   <!-- Sugar Cane -->
+   <tr>
+      <td rowspan="2"><a id="cugar-cane"><img src="./Material-Items/Harvest-Items-Images/Sugar-Cane.png"></a></td>
+      <td rowspan="2"><div align="center"><a href="./Material-Items/Harvest-Items-Codes/Sugar-Cane.md"> Sugar Cane </a></div></td>
+      <td rowspan="2"><b><div align="center"><h3> E </h3></div></b></td>
+      <td><div align="center">  12 EXP (Leveling)  </div></td>
+      <td rowspan="2"><div align="center">  5%  <br>  (20 times)  </br></div></td>
+      <td><b><div align="center">  HP  </div></b></td>
+      <td><b><div align="center">  MP  </div></b></td>
+      <td><b><div align="center">  SP  </div></b></td>
+      <td rowspan="2"><b><div align="center">  100 :coin: <br>- 200 :coin:</br>  </div></td>
+      <td rowspan="2"><div align="center">  -  </div></td>
+   </tr> 
+   <tr>
+      <td><div align="center">  21 EXP (Farming)  </div></td>
+      <td><div align="center">  -  </div></td>
+      <td><div align="center">  -  </div></td>
+      <td><div align="center">  2%  </div></td>
+   </tr>
+
    <!-- Sunflower -->
    <tr>
       <td rowspan="2"><a id="sunflower"><img src="./Material-Items/Harvest-Items-Images/Sunflower.png"></a></td>
@@ -977,6 +997,7 @@
       <td width="100"><b><i><div align="center">  Selling  </div></i></b></td>
    </tr>
 
+   <!-- Flour -->
    <tr>
       <td rowspan="2"><a id="flour"><img src="./Crafting-Items/Crafting-Items-Images/Flour.png"></a></td>
       <th rowspan="2"><div align="center"><a href="./Crafting-Items/Crafting-Items-Codes/Flour.md"><b> Flour </b></a></div></td>
@@ -989,6 +1010,21 @@
    </tr>
    <tr>
       <td><div align="center">  29 EXP (Crafting)  </div></td>
+   </tr>
+
+   <!-- Sugar -->
+   <tr>
+      <td rowspan="2"><a id="sugar"><img src="./Crafting-Items/Crafting-Items-Images/Sugar.png"></a></td>
+      <th rowspan="2"><div align="center"><a href="./Crafting-Items/Crafting-Items-Codes/Sugar.md"><b> Sugar </b></a></div></td>
+      <td rowspan="2"><b><div align="center"><h3> E </h3></div></b></td>
+      <td rowspan="2"><div align="center"> 
+         <img src="./Material-Items/Harvest-Items-Images/Sugar-Cane.png"> 2
+      </div></td>
+      <td><div align="center">  16 EXP (Leveling)  </div></td>
+      <td rowspan="2"><b><div align="center">  ??? :coin: <br>- ??? :coin:</br>  </div></td>
+   </tr>
+   <tr>
+      <td><div align="center">  22 EXP (Crafting)  </div></td>
    </tr>
 </table>
 </div>
