@@ -1018,7 +1018,7 @@
       <th rowspan="2"><div align="center"><a href="./Crafting-Items/Crafting-Items-Codes/Sugar.md"><b> Sugar </b></a></div></td>
       <td rowspan="2"><b><div align="center"><h3> E </h3></div></b></td>
       <td rowspan="2"><div align="center"> 
-         <img src="./Material-Items/Harvest-Items-Images/Sugar-Cane.png"> 2
+         <img src="./Material-Items/Harvest-Items-Images/Sugar-Cane.png" width="48" height="48"> 2
       </div></td>
       <td><div align="center">  16 EXP (Leveling)  </div></td>
       <td rowspan="2"><b><div align="center">  ??? :coin: <br>- ??? :coin:</br>  </div></td>
