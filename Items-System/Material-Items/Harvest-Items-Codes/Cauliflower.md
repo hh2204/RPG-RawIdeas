@@ -27,7 +27,7 @@
       <th rowspan="2"><div align="center"> Cauliflower </div></td>
       <td rowspan="2"><b><div align="center"><h3> E </h3></div></b></td>
       <td rowspan="2"> LVL 5  </th>
-      <td><div align="center">  20 EXP (Farming)  </div></th>
+      <td><div align="center">  20 EXP (Leveling)  </div></th>
       <th width="100px">  HP  </th>
       <th width="100px">  MP  </th>
       <th width="100px">  SP  </th>
