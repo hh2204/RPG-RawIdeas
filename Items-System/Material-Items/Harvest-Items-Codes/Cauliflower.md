@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td><b><i><a href="../../General-Raw-Ideas-List.md"> :arrow_right: General Raw Ideas List </a></i></b></td>
-    <td><b><i><a href="../../Enncyclopedia-Of-Items.md/#general-items-list"> :arrow_right: Enncyclopedia Of Items </a></i></b></td>
+    <td><b><i><a href="../../Encyclopedia-Of-Items.md/#general-items-list"> :arrow_right: Encyclopedia Of Items </a></i></b></td>
   </tr>
 </table>
 </div>
