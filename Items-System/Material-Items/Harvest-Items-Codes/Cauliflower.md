@@ -25,7 +25,7 @@
    <tr>
       <td rowspan="2"><div align="center"><a id="cauliflower"><img src="../Harvest-Items-Images/Cauliflower.png" width="60" height="60"></a></div></td>
       <th rowspan="2"><div align="center"> Cauliflower </div></td>
-      <td rowspan="2"><b><div align="center"> E </div></b></td>
+      <td rowspan="2"><b><div align="center"><h3> E </h3></div></b></td>
       <td rowspan="2"> LVL 5  </th>
       <td><div align="center">  20 EXP (Farming)  </div></th>
       <th width="100px">  HP  </th>
