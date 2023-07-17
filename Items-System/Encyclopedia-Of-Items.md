@@ -98,12 +98,6 @@
    </tr>
    <!-- Radish -->
    <tr>
-      <td><a id="radish"><img src="./Material-Items/Harvest-Items-Images/Radish.png"></td>
-      <td><div align="center"><a href="./Material-Items/Harvest-Items-Codes/Radish.md"> Radish </a></div></td>
-      <td><b><div align="center"> F </div></b></td>
-      <td></td>
-   </tr>
-   <tr>
       <td rowspan="2"><a id="radish"><img src="./Material-Items/Harvest-Items-Images/Radish.png"></a></td>
       <td rowspan="2"><div align="center"><a href="./Material-Items/Harvest-Items-Codes/Radish.md"> Radish </a></div></td>
       <td rowspan="2"><b><div align="center"><h3> E </h3></div></b></td>
@@ -112,7 +106,7 @@
       <td><b><div align="center">  HP  </div></b></td>
       <td><b><div align="center">  MP  </div></b></td>
       <td><b><div align="center">  SP  </div></b></td>
-      <td rowspan="2"><b><div align="center">  340 :coin: <br>- 440 :coin:</br>  </div></td>
+      <td rowspan="2"><b><div align="center">  100 :coin: <br>- 150 :coin:</br>  </div></td>
    </tr> 
    <tr>
       <td><div align="center">  5 EXP (Farming)  </div></td>
