@@ -134,12 +134,6 @@
    </tr>
    <!-- Tomato -->
    <tr>
-      <td><a id="tomato"><img src="./Material-Items/Harvest-Items-Images/Tomato.png"></a></td>
-      <td><div align="center"><a href="./Material-Items/Harvest-Items-Codes/Tomato.md"> Tomato </a></div></td>
-      <td><b><div align="center"> E </div></b></td>
-      <td></td>
-   </tr>
-   <tr>
       <td rowspan="2"><a id="tomato"><img src="./Material-Items/Harvest-Items-Images/Tomato.png"></a></td>
       <td rowspan="2"><div align="center"><a href="./Material-Items/Harvest-Items-Codes/Tomato.md"> Tomato </a></div></td>
       <td rowspan="2"><b><div align="center"><h3> D </h3></div></b></td>
@@ -156,13 +150,22 @@
       <td><div align="center">  1%  </div></td>
       <td><div align="center">  2%  </div></td>
    </tr>
-         
+   <!-- Wheat -->  
    <tr>
-      <td><a id="wheat"><img src="./Material-Items/Harvest-Items-Images/Wheat.png"></td>
-      <td><div align="center"><a href="./Material-Items/Harvest-Items-Codes/Wheat.md"> Wheat </a></div></td>
-      <td><b><div align="center"> F </div></b></td>
-      <td></td>
-   </tr>
+      <td rowspan="2"><a id="wheat"><img src="./Material-Items/Harvest-Items-Images/Wheat.png"></a></td>
+      <td rowspan="2"><div align="center"><a href="./Material-Items/Harvest-Items-Codes/Wheat.md"> Wheat </a></div></td>
+      <td rowspan="2"><b><div align="center"><h3> F </h3></div></b></td>
+      <td rowspan="2"> "..." </td>
+      <td><div align="center">  3 EXP (Leveling)  </div></td>
+      <td><b><div align="center">  HP  </div></b></td>
+      <td><b><div align="center">  MP  </div></b></td>
+      <td><b><div align="center">  SP  </div></b></td>
+      <td rowspan="2"><b><div align="center">  50 :coin: <br>- 100 :coin:</br>  </div></td>
+   </tr> 
+   <tr>
+      <td><div align="center">  7 EXP (Farming)  </div></td>
+      <td colspan="3"><div align="center">  -  </div></td>
+   </tr>      
 </table>
 </div>
 
