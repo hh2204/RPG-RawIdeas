@@ -552,7 +552,7 @@
    <!-- Strawberry -->
    <tr>
       <td rowspan="2"><a id="strawberry"><img src="./Material-Items/Harvest-Items-Images/Strawberry.png"></a></td>
-      <td rowspan="2"><div align="center"><a href="./Material-Items/Harvest-Items-Codes/Strawberry.md"> Strawberry </a></div></td>
+      <th rowspan="2"><div align="center"><a href="./Material-Items/Harvest-Items-Codes/Strawberry.md"> Strawberry </a></div></td>
       <td rowspan="2"><b><div align="center"><h3> D </h3></div></b></td>
       <td><div align="center">  19 EXP (Leveling)  </div></td>
       <td rowspan="2"><div align="center">  5%  <br>  (20 times)  </br></div></td>
@@ -572,7 +572,7 @@
    <!-- Sugar Cane -->
    <tr>
       <td rowspan="2"><a id="cugar-cane"><img src="./Material-Items/Harvest-Items-Images/Sugar-Cane.png"></a></td>
-      <td rowspan="2"><div align="center"><a href="./Material-Items/Harvest-Items-Codes/Sugar-Cane.md"> Sugar Cane </a></div></td>
+      <th rowspan="2"><div align="center"><a href="./Material-Items/Harvest-Items-Codes/Sugar-Cane.md"> Sugar Cane </a></div></td>
       <td rowspan="2"><b><div align="center"><h3> E </h3></div></b></td>
       <td><div align="center">  12 EXP (Leveling)  </div></td>
       <td rowspan="2"><div align="center">  5%  <br>  (20 times)  </br></div></td>
