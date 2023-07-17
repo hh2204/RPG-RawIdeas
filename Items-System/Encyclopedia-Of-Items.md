@@ -124,13 +124,13 @@
       <td><b><div align="center">  HP  </div></b></td>
       <td><b><div align="center">  MP  </div></b></td>
       <td><b><div align="center">  SP  </div></b></td>
-      <td rowspan="2"><b><div align="center">  100 :coin: <br>- 150 :coin:</br>  </div></td>
+      <td rowspan="2"><b><div align="center">  220 :coin: <br>- 300 :coin:</br>  </div></td>
    </tr> 
    <tr>
       <td><div align="center">  23 EXP (Farming)  </div></td>
-      <td><div align="center">  5%  </div></td>
-      <td><div align="center">  -  </div></td>
-      <td><div align="center">  3%  </div></td>
+      <td><div align="center">  4%  </div></td>
+      <td><div align="center">  1%  </div></td>
+      <td><div align="center">  2%  </div></td>
    </tr>
          
    <tr>
