@@ -44,7 +44,7 @@
       <td width="50"><b><i><div align="center">  Rank  </div></i></b></td>
       <td width="300"><b><i><div align="center">  Description  </div></i></b></td>
       <td width="170"><b><i><div align="center">  EXP  </div></i></b></td>
-      <td width="180" colspan="3"><b><i><div align="center">   Restoration   </div></i></b></td>
+      <td width="180" colspan="3"><b><i><div align="center">   Restoration  </div></i></b></td>
       <td width="100"><b><i><div align="center">  Selling  </div></i></b></td>
    </tr>
 
@@ -110,9 +110,9 @@
    </tr> 
    <tr>
       <td><div align="center">  5 EXP (Farming)  </div></td>
-      <td><div align="center">  20  </div></td>
+      <td><div align="center">  2%  </div></td>
       <td><div align="center">  None  </div></td>
-      <td><div align="center">  10  </div></td>
+      <td><div align="center">  1%  </div></td>
    </tr>
          
    <tr>
