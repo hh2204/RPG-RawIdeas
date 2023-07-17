@@ -549,7 +549,7 @@
       <td><div align="center">  2%  </div></td>
    </tr>
 
-      <!-- Strawberry -->
+   <!-- Strawberry -->
    <tr>
       <td rowspan="2"><a id="strawberry"><img src="./Material-Items/Harvest-Items-Images/Strawberry.png"></a></td>
       <td rowspan="2"><div align="center"><a href="./Material-Items/Harvest-Items-Codes/Strawberry.md"> Strawberry </a></div></td>
