@@ -769,7 +769,7 @@
       <th rowspan="2"><div align="center"><a href="./Crafting-Items/Food-Items-Codes/Bread.md"> Bread </a></div></td>
       <th rowspan="2"><b><div align="center"><h3> E </h3></div></b></td>
       <th rowspan="2"><div align="center">
-         <img src="./Material-Items/Harvest-Items-Images/Wheat.png"> 3
+         <img src="./Crafting-Items/Crafting-Items-Images/Flour.png"> 3
       </div></th>
       <td><b><div align="center">  HP  </div></b></td>
       <td><b><div align="center">  MP  </div></b></td>
@@ -778,7 +778,7 @@
       <td rowspan="2"><div align="center">  -  </div></td>
    </tr>
    <tr>
-      <td><div align="center">  1%  </div></td>
+      <td><div align="center">  2%  </div></td>
       <td><div align="center">  -  </div></td>
       <td><div align="center">  1%  </div></td>
    </tr>
