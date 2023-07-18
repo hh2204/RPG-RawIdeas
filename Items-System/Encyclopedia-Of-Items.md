@@ -758,29 +758,29 @@
       <td width="75"><b><i><div align="center">  Image  </div></i></b></td>
       <td width="150"><b><i><div align="center">  Name  </div></i></b></td>
       <td width="50"><b><i><div align="center">  Rank  </div></i></b></td>
-      <td width="300"><b><i><div align="center">  Recipe  </div></i></b></td>
-      <td width="200"><b><i><div align="center">  EXP  </div></i></b></td>
-      <td width="150" colspan="3"><b><i><div align="center">   Restoration   </div></i></b></td>
-      <td width="100"><b><i><div align="center">  Selling  </div></i></b></td>
+      <td width="275"><b><i><div align="center">  Recipe  </div></i></b></td>
+      <td width="225" colspan="3"><b><i><div align="center">   Restoration   </div></i></b></td>
+      <th width="150"><i><div align="center">  Satiety  </div></i></th>
+      <th width="100"><i><div align="center">  Effect  </div></i></th>
    </tr>
 
-   
    <tr>
-      <td rowspan="2"><a id="apple-pie"><img src="./Crafting-Items/Food-Items-Images/Apple-Pie.png"></a></td>
-      <td rowspan="2"><div align="center"><a href="./Food-Items-Codes/Apple-Pie.md"> Apple Pie </a></div></td>
-      <td rowspan="2"><b><div align="center"> D </div></b></td>
-      <td rowspan="2"><div align="center"> Apple, Flour, Sugar </div></td>
-      <td><div align="center">  30 EXP (Leveling)  </div></td>
+      <th rowspan="2"><a id="bread"><img src="./Crafting-Items/Food-Items-Images/Bread.png"></a></td>
+      <th rowspan="2"><div align="center"><a href="./Crafting-Items/Food-Items-Codes/Bread.md"> Bread </a></div></td>
+      <th rowspan="2"><b><div align="center"><h3> E </h3></div></b></td>
+      <th rowspan="2"><div align="center">
+         <img src="./Material-Items/Harvest-Items-Images/Wheat.png"> 3
+      </div></th>
       <td><b><div align="center">  HP  </div></b></td>
       <td><b><div align="center">  MP  </div></b></td>
       <td><b><div align="center">  SP  </div></b></td>
-      <td rowspan="2"><b><div align="center">  550 :coin: <br>- 650 :coin:</br>  </div></td>
+      <td rowspan="2"><div align="center">  ...%  <br>  (... times)  </br></div></td>
+      <td rowspan="2"><div align="center">  -  </div></td>
    </tr>
    <tr>
-      <td><div align="center">  20 EXP (Cooking)  </div></td>
-      <td><div align="center">  30  </div></td>
-      <td><div align="center">  None  </div></td>
-      <td><div align="center">  10  </div></td>
+      <td><div align="center">  1%  </div></td>
+      <td><div align="center">  -  </div></td>
+      <td><div align="center">  1%  </div></td>
    </tr>
 </table>
 </div>
@@ -797,12 +797,6 @@
       <td><b><div align="center"> C </div></b></td>
       <td><div align="center"> Any Fish, Salt, Onion, Butter, Lemon </div></td>
    </tr> 
-   <tr>
-      <td><a id="bread"><img src="./Crafting-Items/Food-Items-Images/Bread.png"></td>
-      <td><div align="center"><a href="./Food-Items-Codes/Bread.md"> Bread </a></div></td>
-      <td><b><div align="center"> C </div></b></td>
-      <td><div align="center"> Flour </div></td>
-   </tr>
    <tr>
       <td><a id="candied-yams"><img src="./Crafting-Items/Food-Items-Images/Candied-Yams.png"></td>
       <td><div align="center"><a href="./Food-Items-Codes/Candied-Yams.md"> Candied Yams </a></div></td>
